@@ -1211,9 +1211,7 @@ input[type="radio"] + label:before {
     font-family: 'Font Awesome 5 Brands'; }
 
 /* Image */
-.headshot {
-  height: 50%;
-}
+
 .image {
   border-radius: 0.375em;
   border: 0;
