@@ -32,7 +32,7 @@ My professional journey so far has been one of progression at AWS.
 
 I got promoted to Technical Writer II ahead of Q3 2025. I was involved in writing documentation for Amazon Elastic Container Service (ECS) and AWS Cloud Map. I contributed to projects such as an open-source AWS CLI tutorials repository, product documentation for shared AWS Cloud Map namespaces, and an Infrastructure as Code chapter for Amazon ECS customer. For more information about these projects, see the following links in the portfolio:
 
-- [CLI tutorials](docs/broader-initiatives/cli-sdk-examples.mnd)
+- [CLI tutorials](docs/broader-initiatives/cli-sdk-examples.md)
 - [Shared namespaces](docs/dev-guide/shared-namespaces.md)
 - [Infrastructure as code](docs/broader-initiatives/infrastructure-as-code.md)
 

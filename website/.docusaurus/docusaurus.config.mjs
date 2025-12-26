@@ -33,7 +33,6 @@ export default {
   "projectName": "amohapatra3.github.io",
   "deploymentBranch": "main",
   "trailingSlash": false,
-  "onBrokenLinks": "throw",
   "i18n": {
     "defaultLocale": "en",
     "locales": [
@@ -93,7 +92,7 @@ export default {
           "items": [
             {
               "label": "Developer guide documentation",
-              "to": "/docs/category/developer-guide-documentation"
+              "to": "/docs/category/developer-documentation"
             },
             {
               "label": "Broader documentation initiatives",
@@ -352,6 +351,7 @@ export default {
     }
   },
   "baseUrlIssueBanner": true,
+  "onBrokenLinks": "throw",
   "onBrokenAnchors": "warn",
   "onDuplicateRoutes": "warn",
   "staticDirectories": [

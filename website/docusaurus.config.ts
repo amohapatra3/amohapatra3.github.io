@@ -28,7 +28,7 @@ const config: Config = {
   deploymentBranch: "main",
   trailingSlash: false,
 
-  onBrokenLinks: "throw",
+  //onBrokenLinks: "throw",
 
   // Even if you don't use internationalization, you can use this field to set
   // useful metadata like html lang. For example, if your site is Chinese, you
@@ -112,7 +112,7 @@ const config: Config = {
           items: [
             {
               label: "Developer guide documentation",
-              to: "/docs/category/developer-guide-documentation",
+              to: "/docs/category/developer-documentation",
             },
             {
               label: "Broader documentation initiatives",

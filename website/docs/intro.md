@@ -19,7 +19,7 @@ To learn more about me, see [About me](/docs/about.md).
 
 ## Developer documentation
 
-Developer documentation samples focus on developer guide updates that I made in response to updates being introduced to the product. This could be a net new functionality or updates to existing functionality. To view examples of this documentation, see **[Developer documentation](dev-guide/)**.
+Developer documentation samples focus on developer guide updates that I made in response to updates being introduced to the product. This could be a net new functionality or updates to existing functionality. To view examples of this documentation, see **[Developer documentation](category/developer-documentation)**.
 
 ## API reference
 
@@ -27,8 +27,8 @@ AWS offers several ways for customers to use APIs such as direct API calls, the 
 
 ## Broader documentation initiatives
 
-Besides working on regular feature documentation, I was involved in a couple documentation initiatives in domains such as content strategy and developer experience. These projects often involved collaboration with other writers. To learn more about these projects, see **[Broader documentation initiatives](broader-initiatives/)**.
+Besides working on regular feature documentation, I was involved in a couple documentation initiatives in domains such as content strategy and developer experience. These projects often involved collaboration with other writers. To learn more about these projects, see **[Broader documentation initiatives](category/broader-documentation-initiatives)**.
 
 ## UI text
 
-For customers that don't want to call APIs programmatically, AWS provides a Graphical User Interface (GUI) called the AWS Management Console. Updates to the APIs would often result in updates to this console such as new forms and fields. I contributed to the text on the console for new or updated Amazon ECS and AWS Cloud Map forms and fields. To view examples of this documentation, see **[UI text](ui-text/)**.
+For customers that don't want to call APIs programmatically, AWS provides a Graphical User Interface (GUI) called the AWS Management Console. Updates to the APIs would often result in updates to this console such as new forms and fields. I contributed to the text on the console for new or updated Amazon ECS and AWS Cloud Map forms and fields. To view examples of this documentation, see **[UI text](category/ui-text)**.
