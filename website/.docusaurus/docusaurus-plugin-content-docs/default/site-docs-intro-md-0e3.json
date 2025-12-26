@@ -1,0 +1,26 @@
+{
+  "id": "intro",
+  "title": "Introduction to the portfolio",
+  "description": "This portfolio is a collection of writing samples from my time at Amazon Web Services (AWS) working on docs for Amazon Elastic Container Service (ECS) and AWS Cloud Map. Amazon ECS is a container orchestration service that allows customers to run application code and its dependencies on cloud-based virtual servers (Amazon EC2 instances). Customers can focus on code and configurations, while ECS handles infrastructure on their behalf. AWS Cloud Map is a service that allows customers to register and track backend AWS resources using API calls and DNS queries.",
+  "source": "@site/docs/intro.md",
+  "sourceDirName": ".",
+  "slug": "/intro",
+  "permalink": "/docs/intro",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "About me",
+    "permalink": "/docs/about"
+  },
+  "next": {
+    "title": "Developer documentation",
+    "permalink": "/docs/category/developer-documentation"
+  }
+}

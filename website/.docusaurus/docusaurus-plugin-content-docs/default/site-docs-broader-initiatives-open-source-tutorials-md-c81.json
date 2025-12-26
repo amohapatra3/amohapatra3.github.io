@@ -1,0 +1,27 @@
+{
+  "id": "broader-initiatives/open-source-tutorials",
+  "title": "Working collaboratively on an open-source AWS CLI tutorials repository",
+  "description": "When I returned to AWS as a full-time technical writer in 2023, I worked on updating tutorials to reacquaint myself with Amazon ECS. Like me, customers rely on tutorials to get started with AWS services. In 2025, when I learned that there was an organizational goal involving tutorials, I knew I had to get involved.",
+  "source": "@site/docs/broader-initiatives/open-source-tutorials.md",
+  "sourceDirName": "broader-initiatives",
+  "slug": "/broader-initiatives/open-source-tutorials",
+  "permalink": "/docs/broader-initiatives/open-source-tutorials",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2,
+    "sidebar_label": "Open-source AWS CLI tutorials"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "API and SDK examples",
+    "permalink": "/docs/broader-initiatives/cli-sdk-examples"
+  },
+  "next": {
+    "title": "Scenario-based content refactoring",
+    "permalink": "/docs/broader-initiatives/scenario-based-content-refactoring"
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "about",
+          "docs": [
+            {
+              "id": "about",
+              "path": "/docs/about",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "api-docs/data-types",
+              "path": "/docs/api-docs/data-types",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "api-docs/operations",
+              "path": "/docs/api-docs/operations",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "broader-initiatives/cli-sdk-examples",
+              "path": "/docs/broader-initiatives/cli-sdk-examples",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "broader-initiatives/infrastructure-as-code",
+              "path": "/docs/broader-initiatives/infrastructure-as-code",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "broader-initiatives/open-source-tutorials",
+              "path": "/docs/broader-initiatives/open-source-tutorials",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "broader-initiatives/scenario-based-content-refactoring",
+              "path": "/docs/broader-initiatives/scenario-based-content-refactoring",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "dev-guide/ecs-ebs-integration",
+              "path": "/docs/dev-guide/ecs-ebs-integration",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "dev-guide/shared-namespaces",
+              "path": "/docs/dev-guide/shared-namespaces",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "intro",
+              "path": "/docs/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "ui-text/ecs-ebs-integration-ui",
+              "path": "/docs/ui-text/ecs-ebs-integration-ui",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "ui-text/ecs-restart-policy-ui",
+              "path": "/docs/ui-text/ecs-restart-policy-ui",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/developer-documentation",
+              "path": "/docs/category/developer-documentation",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/api-documentation",
+              "path": "/docs/category/api-documentation",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/broader-documentation-initiatives",
+              "path": "/docs/category/broader-documentation-initiatives",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/ui-text",
+              "path": "/docs/category/ui-text",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/docs/about",
+                "label": "about"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

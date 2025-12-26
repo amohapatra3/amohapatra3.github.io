@@ -1,0 +1,22 @@
+{
+  "id": "about",
+  "title": "About me",
+  "description": "I'm Anupras, a technical writer with almost 3 years experience at Amazon Web Services (AWS), and a computer science and journalism graduate of the University of Wisconsin-Madison. I was born in India, raised in the United Arab Emirates, and have studied and worked in the United States.",
+  "source": "@site/docs/about.md",
+  "sourceDirName": ".",
+  "slug": "/about",
+  "permalink": "/docs/about",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "Introduction to the portfolio",
+    "permalink": "/docs/intro"
+  }
+}

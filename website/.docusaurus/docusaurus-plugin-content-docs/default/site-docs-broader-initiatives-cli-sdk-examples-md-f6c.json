@@ -1,0 +1,27 @@
+{
+  "id": "broader-initiatives/cli-sdk-examples",
+  "title": "Creating more AWS CLI and SDK examples",
+  "description": "Amazon Web Services (AWS) offers several ways for customers to use APIs such as direct API calls, AWS Command Line Interface (CLI) commands, and AWS Software Development Kit (SDK) requests in several programming languages. In December 2024, I was trying to determine areas in Amazon ECS and AWS Cloud Map documentation that could be improved on. With the holidays not far, I had the time to work on a self-directed project like this. I looked at the CLI and SDK references for both services and found something to work on.",
+  "source": "@site/docs/broader-initiatives/cli-sdk-examples.md",
+  "sourceDirName": "broader-initiatives",
+  "slug": "/broader-initiatives/cli-sdk-examples",
+  "permalink": "/docs/broader-initiatives/cli-sdk-examples",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "sidebar_label": "API and SDK examples"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Broader documentation initiatives",
+    "permalink": "/docs/category/broader-documentation-initiatives"
+  },
+  "next": {
+    "title": "Open-source AWS CLI tutorials",
+    "permalink": "/docs/broader-initiatives/open-source-tutorials"
+  }
+}

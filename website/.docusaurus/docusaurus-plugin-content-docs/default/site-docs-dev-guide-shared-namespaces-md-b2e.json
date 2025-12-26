@@ -1,0 +1,27 @@
+{
+  "id": "dev-guide/shared-namespaces",
+  "title": "Shared namespaces for AWS Cloud Map and Amazon ECS Service Connect",
+  "description": "Amazon Web Services (AWS) consists of 200+ products/services, which means there's many integrations between services. I worked on documentation for a cross-service integration between AWS Cloud Map and AWS Resource Access Manager (RAM) that allowed customers to create shared Cloud Map namespaces. I also worked on documentation for shared namespaces being supported for Amazon ECS Service Connect — a feature of Amazon ECS that provides management of service-to-service communication.",
+  "source": "@site/docs/dev-guide/shared-namespaces.md",
+  "sourceDirName": "dev-guide",
+  "slug": "/dev-guide/shared-namespaces",
+  "permalink": "/docs/dev-guide/shared-namespaces",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2,
+    "sidebar_label": "AWS Cloud Map shared namespaces"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Amazon ECS integration with Amazon EBS",
+    "permalink": "/docs/dev-guide/ecs-ebs-integration"
+  },
+  "next": {
+    "title": "API documentation",
+    "permalink": "/docs/category/api-documentation"
+  }
+}

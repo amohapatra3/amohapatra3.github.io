@@ -1,0 +1,32 @@
+---
+sidebar_position: 2
+---
+
+# Introduction to the portfolio
+
+This portfolio is a collection of writing samples from my time at Amazon Web Services (AWS) working on docs for Amazon Elastic Container Service (ECS) and AWS Cloud Map. Amazon ECS is a container orchestration service that allows customers to run application code and its dependencies on cloud-based virtual servers (Amazon EC2 instances). Customers can focus on code and configurations, while ECS handles infrastructure on their behalf. AWS Cloud Map is a service that allows customers to register and track backend AWS resources using API calls and DNS queries.
+
+For more information about Amazon ECS, see [Amazon ECS](https://docs.aws.amazon.com/AmazonECS/latest/developerguide/Welcome.html). For more information about AWS Cloud Map, see [AWS Cloud Map](https://docs.aws.amazon.com/cloud-map/latest/dg/what-is-cloud-map.html).
+
+My portfolio consists of four sections highlighting the different types of content I have delivered:
+
+- Developer documentation
+- API reference
+- Broader documentation initiatives
+- UI text
+
+## Developer documentation
+
+Developer documentation samples focus on developer guide updates that I made in response to updates being introduced to the product. This could be a net new functionality or updates to existing functionality. To view examples of this documentation, see **[Developer documentation](dev-guide/)**.
+
+## API reference
+
+AWS offers several ways for customers to use APIs such as direct API calls, the AWS CLI, and AWS SDKs. The API reference samples include parameter descriptions and examples that I created for these various methods of calling APIs. To view examples of this documentation, see **[API reference](category/api-documentation)**.
+
+## Broader documentation initiatives
+
+Besides working on regular feature documentation, I was involved in a couple documentation initiatives in domains such as content strategy and developer experience. These projects often involved collaboration with other writers. To learn more about these projects, see **[Broader documentation initiatives](broader-initiatives/)**.
+
+## UI text
+
+For customers that don't want to call APIs programmatically, AWS provides a Graphical User Interface (GUI) called the AWS Management Console. Updates to the APIs would often result in updates to this console such as new forms and fields. I contributed to the text on the console for new or updated Amazon ECS and AWS Cloud Map forms and fields. To view examples of this documentation, see **[UI text](ui-text/)**.
