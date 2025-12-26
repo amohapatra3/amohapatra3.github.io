@@ -31,6 +31,8 @@ export default {
   "baseUrl": "/",
   "organizationName": "amohapatra3",
   "projectName": "amohapatra3.github.io",
+  "deploymentBranch": "main",
+  "trailingSlash": false,
   "onBrokenLinks": "throw",
   "i18n": {
     "defaultLocale": "en",

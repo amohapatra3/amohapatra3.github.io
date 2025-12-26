@@ -15,6 +15,8 @@ My portfolio consists of four sections highlighting the different types of conte
 - Broader documentation initiatives
 - UI text
 
+To learn more about me, see [About me](/docs/about.md).
+
 ## Developer documentation
 
 Developer documentation samples focus on developer guide updates that I made in response to updates being introduced to the product. This could be a net new functionality or updates to existing functionality. To view examples of this documentation, see **[Developer documentation](dev-guide/)**.
