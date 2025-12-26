@@ -6,7 +6,7 @@ sidebar_position: 1
 
 I'm Anupras, a technical writer with almost 3 years experience at Amazon Web Services (AWS), and a computer science and journalism graduate of the University of Wisconsin-Madison. I was born in India, raised in the United Arab Emirates, and have studied and worked in the United States.
 
-I'm currently based in Austin, Texas and open to relocation if necessary. I'm excited by the prospect of exploring new cities and countries through work.
+I'm currently based in Austin, Texas and open to relocation if necessary. I'm excited by the prospect of exploring new cities and countries through work. In fact, that's how I ended up in Austin, and it's been good.
 
 Outside of work, I am:
 
@@ -20,9 +20,9 @@ Outside of work, I am:
 
 In 2020, a teaching assistant (TA) for a linguistics class that I was taking had mentioned working as a technical writer. It was the first semester of a COVID-riddled sophomore year. I wasn't thinking about my career then, but somewhere in the back of my mind, I made note of technical writing as a potential future profession.
 
-By late 2021, I was a junior who was actively looking for internships. I had already applied to a handful of tech internships when the memory of my old TA resurfaced. I took a moment to explore the profession more closely and realized it made perfect sense. Technical writing was the perfect convergence of my academic background, and the idea of helping customers accomplish their goals with technology by learning and documenting it seemed very rewarding. With this realization, my internship search was more focused, and I eventually found an opportunity at AWS.
+By late 2021, I was a junior who was actively looking for internships. I had already applied to a handful of tech internships when the memory of my old TA resurfaced. I took a moment to explore the profession more closely and realized it made perfect sense. Technical writing was the perfect convergence of my academic background, and the idea of helping customers accomplish their goals with technology by learning and documenting the technology seemed very rewarding. With this realization, my internship search was more focused, and I eventually found an opportunity at AWS.
 
-Years after deciding to pursue technical writing professionally, I'm happy to say that it's been as enjoyable as I thought it would be.
+Years after deciding to pursue technical writing professionally, I'm happy to say that it's mostly been as enjoyable as I thought it would be.
 
 ## Professional journey
 
@@ -88,13 +88,13 @@ The following are some writing skills and standards I have experience or familia
 
 I graduated with a Bachelor's degree from the University of Wisconsin-Madison in 2023. I studied computer science and journalism. I was also an active member of the [Daily Cardinal](https://www.dailycardinal.com/page/about-us), UW-Madison's leading on-campus student newspaper. The following are some highlights from my time as a student at UW-Madison:
 
-- [Opinion](https://www.dailycardinal.com/section/opinion) editor at the Daily Cardinal in 2020. I worked with a coeditor to review editorial submissions from a group of 5-10 contributors and ensure that we had editorials ready to publish every Thursday. Collaborated across time zones, with differences of up to 10 hours. Followed the Associated Press (AP) styleguide.
-- Member of the editorial board at the Daily Cardinal from January 2020 to May 2023. I worked collaboratively with other members of the board to define the stance of the organization on issues relevant to the student body in the form of [editorials co-authored under the editorial board byline](https://www.dailycardinal.com/search?a=1&s=&ti=&ts_month=01&ts_day=0&ts_year=2020&te_month=05&te_day=0&te_year=2023&au=The+Daily+Cardinal+Editorial+Board&tg=&ty=article&o=date).
-- Staff writer at the Daily Cardinal from September 2019 to December 2019. Senior staff writer from January 2021 to May 2023. Wrote [80 articles](https://www.dailycardinal.com/staff/anupras-mohapatra) ranging from editorials to food and music reviews to poetry and soccer recaps. Not all of it was great writing, but I learned a lot.
-- [Online: Best Editorial or Commentary - Gold](https://milwaukeepressclub.org/2022-excellence-in-journalism-awardees/#collegiate) award by the Milwaukee Press Club for a 2022 editorial I wrote. The oldest continously operating press club in North America, the Milwaukee Press Club recognizes Wisconsin-based college students annually for excellence in student journalism.
-- [Sigrid Schultz scholarship](https://wisc.academicworks.com/opportunities/86867) in March 2023 and [Catherine E Klein memorial fund scholarship](https://wisc.academicworks.com/opportunities/86661) in March 2022 from the UW-Madison School of Journalism and Mass Communications.
-- Dean's list: Fall 2019, Spring 2020, Fall 2020, Fall 2021, Fall 2022, Spring 2023
-- GPA: 3.78/4
+- I was [Opinion](https://www.dailycardinal.com/section/opinion) editor at the Daily Cardinal in 2020. I worked with a coeditor to review editorial submissions from a group of 5-10 contributors and ensure that we had editorials ready to publish every Thursday. Collaborated across time zones, with differences of up to 10 hours. Followed the Associated Press (AP) styleguide.
+- I was a member of the editorial board at the Daily Cardinal from January 2020 to May 2023. I worked collaboratively with other members of the board to define the stance of the organization on issues relevant to the student body in the form of [editorials co-authored under the editorial board byline](https://www.dailycardinal.com/search?a=1&s=&ti=&ts_month=01&ts_day=0&ts_year=2020&te_month=05&te_day=0&te_year=2023&au=The+Daily+Cardinal+Editorial+Board&tg=&ty=article&o=date).
+- I was a staff writer at the Daily Cardinal from September 2019 to December 2019, and a senior staff writer from January 2021 to May 2023. Wrote [80 articles](https://www.dailycardinal.com/staff/anupras-mohapatra) ranging from editorials to food and music reviews to poetry and soccer recaps. Not all of it was great writing, but I learned a lot.
+- I received a [Online: Best Editorial or Commentary - Gold](https://milwaukeepressclub.org/2022-excellence-in-journalism-awardees/#collegiate) award from the Milwaukee Press Club for a 2022 editorial I wrote. The oldest continously operating press club in North America, the Milwaukee Press Club recognizes Wisconsin-based college students annually for excellence in student journalism.
+- I received the [Sigrid Schultz scholarship](https://wisc.academicworks.com/opportunities/86867) in March 2023 and [Catherine E Klein memorial fund scholarship](https://wisc.academicworks.com/opportunities/86661) in March 2022 from the UW-Madison School of Journalism and Mass Communications.
+- I was on the Dean's list in these semesters: Fall 2019, Spring 2020, Fall 2020, Fall 2021, Fall 2022, Spring 2023
+- I graduated with a GPA of 3.78/4
 
 ## Resume
 

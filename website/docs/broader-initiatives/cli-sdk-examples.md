@@ -26,7 +26,7 @@ I took the following steps to bridge the examples gap:
 The result of this effort was the following:
 
 - We had tracking metrics for what percentage of CLI commands for a given AWS service had at least one example. Due to my efforts, **Amazon ECS reached almost 100% example coverage**, and **AWS Cloud Map reached 100% example coverage**. The same was true for SDKs that featured examples provided by writers.
-- Months later, I was involved in a group effort to create an open-source repository of CLI tutorials using generative AI. When we went through the process of creating tutorials for various AWS services, we found that **it was harder to create accurate tutorials for services that lacked examples**. **Creating tutorials for ECS and Cloud Map was easier because of this effort I had undertaken**. LLMs can't be used to generate content if the data source is incomplete. For more information about my involvement in the creation of this open-source tutorial repository, see [Working collaboratively on an open-source, AI-driven AWS CLI tutorials repository](open-source-tutorials.md).
+- Months later, I was involved in a group effort to create an open-source repository of CLI tutorials using generative AI. When we went through the process of creating tutorials for various AWS services, we found that **it was harder to create accurate tutorials for services that lacked examples**. **Creating tutorials for ECS and Cloud Map was easier because of this effort I had undertaken**. LLMs can't be used effectively by customers or writers to generate derivative content if the data source is incomplete. For more information about my involvement in the creation of this open-source tutorial repository, see [Working collaboratively on an open-source, AI-driven AWS CLI tutorials repository](open-source-tutorials.md).
 - As a computer science student, I had to read documentation. I recognized the importance of having examples that showed me how things worked. Something simple that I could maybe copy and paste. The examples fill a gap that we previously had in this space.
 
 ## Portfolio samples
@@ -37,7 +37,7 @@ The following are a few of the CLI and SDK examples I created.
 
 I created a couple CLI examples for the `update-service` command for Amazon ECS for using EBS volumes with ECS and to stop using EBS volumes. This command corresponds with the `UpdateService` API operation.
 
-The following is one of the command examples I created. **To view the examples in the AWS CLI reference instead, see [update-service](https://docs.aws.amazon.com/cli/latest/reference/ecs/update-service.html#examples)**.
+The following is one of the command examples I created. **To view the example in the AWS CLI reference, see [update-service](https://docs.aws.amazon.com/cli/latest/reference/ecs/update-service.html#examples)**.
 
 **Description**:
 
@@ -212,7 +212,7 @@ aws ecs update-service \
 
 ### SDK example
 
-The SDK examples I created in XML and JSON were translated into a variety of programming languages. The following example usage is for the AWS Cloud Map `GetServiceAttribute` operation in JavaScript. **To view the example in the SDK reference for JavaScript instead, see [GetServiceAttributesCommand](https://docs.aws.amazon.com/AWSJavaScriptSDK/v3/latest/client/servicediscovery/command/GetServiceAttributesCommand/).**
+The SDK examples I created in XML and JSON were translated into a variety of programming languages. The following example usage is for the AWS Cloud Map `GetServiceAttribute` operation in JavaScript. **To view this example in the SDK reference for JavaScript, see [GetServiceAttributesCommand](https://docs.aws.amazon.com/AWSJavaScriptSDK/v3/latest/client/servicediscovery/command/GetServiceAttributesCommand/).**
 
 ```js
 // Gets service attributes using a service ARN instead of service ID, useful when working with shared namespaces. Shows attributes for a service created by a sharee in a namespace owned by another account.
