@@ -13,7 +13,7 @@
   "sidebarPosition": 1,
   "frontMatter": {
     "sidebar_position": 1,
-    "sidebar_label": "API and SDK examples"
+    "sidebar_label": "CLI and SDK examples"
   },
   "sidebar": "tutorialSidebar",
   "previous": {

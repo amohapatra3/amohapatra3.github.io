@@ -1,6 +1,6 @@
 ---
 sidebar_position: 1
-sidebar_label: "API and SDK examples"
+sidebar_label: "CLI and SDK examples"
 ---
 
 # Creating more AWS CLI and SDK examples

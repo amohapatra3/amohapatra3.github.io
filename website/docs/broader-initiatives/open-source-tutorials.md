@@ -36,6 +36,8 @@ I took the following steps in contributing to the project:
 
 I iterated on and helped create a process for creating AWS CLI tutorials at scale. We created an open-source repository of **about 70 tutorials for 64 AWS services**. Customers now have an interactive getting started experience where they can provide links to documentation and generate a tutorial and script. They can even add to the repository. For customers that rely on CLIs, this project is an accessibility boost.
 
+From a writer's perspective, we had a set of prompts that could be used to refresh or create tutorials based on existing documentation. Additionally, [the work I'd done on CLI and SDK examples](cli-sdk-examples.md) prior to this project made generating tutorials for Amazon ECS and AWS Cloud Map easier than for other AWS services. **Recognizing the importance of complete example coverage in documentation, I took inspiration from tutorial generation instructions to create instructions for generating draft CLI and SDK reference examples**.
+
 ## Portfolio samples
 
 The following are samples for phase one and two of the project:
