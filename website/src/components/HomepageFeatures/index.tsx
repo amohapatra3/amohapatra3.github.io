@@ -11,11 +11,11 @@ type FeatureItem = {
 
 const FeatureList: FeatureItem[] = [
   {
-    title: 'Equal parts technical and writer',
-    Svg: require('@site/static/img/education-svgrepo-com.svg').default,
+    title: 'Equal parts technical, equal parts writer',
+    Svg: require('@site/static/img/toolbox-svgrepo-com.svg').default,
     description: (
       <>
-        I majored in both computer science and journalism at the University of Wisconsin-Madison. My computer science background helps me learn and test new technologies hands on, while my journalism background helps me investigate design docs and probe Subject Matter Experts (SMEs) for product information. This background also helps with learning different tools and industry standards for writing documentation. For more information, see <strong><a href='/about#academic-journey'>Academic journey</a></strong>.
+        As a result of majoring in both computer science and journalism at the University of Wisconsin-Madison, I possess a unique toolbox of skills that set me up for success as a technical writer.  My computer science background helps me learn and test new technologies hands on, while my journalism background helps me investigate design docs and probe Subject Matter Experts (SMEs) for product information. This skillset also helps with learning different tools and industry standards for writing documentation. For more information, see <strong><a href='/about#academic-journey'>Academic journey</a></strong>.
       </>
     ),
   },
