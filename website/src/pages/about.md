@@ -20,39 +20,9 @@ Outside of work, I am:
 
 In 2020, a teaching assistant (TA) for a linguistics class that I was taking had mentioned working as a technical writer. It was the first semester of a COVID-riddled sophomore year. I wasn't thinking about my career then, but somewhere in the back of my mind, I made note of technical writing as a potential future profession.
 
-By late 2021, I was a junior who was actively looking for internships. I had already applied to a handful of tech internships when the memory of my old TA resurfaced. I took a moment to explore the profession more closely and realized it made perfect sense. Technical writing was the perfect convergence of my academic background, and the idea of helping customers accomplish their goals with technology by learning and documenting the technology seemed very rewarding. With this realization, my internship search was more focused, and I eventually found an opportunity at AWS.
+By late 2021, I was a junior who was actively looking for internships. I had already applied to a handful of tech internships when the memory of my old TA resurfaced. I took a moment to explore the profession more closely and realized it made perfect sense. Technical writing was the perfect convergence of my academic background. The idea of helping customers accomplish their goals through documentation and, in the process, getting to learn new technologies seemed fulfilling. With this realization, my internship search was more focused, and I eventually found an opportunity at AWS.
 
-Years after deciding to pursue technical writing professionally, I'm happy to say that it's mostly been as enjoyable as I thought it would be.
-
-## Professional journey
-
-My professional journey so far has been one of progression at AWS.
-
-### Technical Writer II: July 2025 - January 2026
-
-I got promoted to Technical Writer II ahead of Q3 2025. I was involved in writing documentation for Amazon Elastic Container Service (ECS) and AWS Cloud Map. I contributed to projects such as an open-source AWS CLI tutorials repository, product documentation for shared AWS Cloud Map namespaces, and an Infrastructure as Code chapter for Amazon ECS customer. For more information about these projects, see the following links in the portfolio:
-
-- [CLI tutorials](docs/broader-initiatives/open-source-tutorials)
-- [Shared namespaces](docs/dev-guide/shared-namespaces)
-- [Infrastructure as code](docs/broader-initiatives/infrastructure-as-code)
-
-### Technical Writer I: July 2023 - June 2025
-
-After a successful internship and graduation, I returned to AWS as a full-time writer. I started out working on documentation for Amazon ECS, resolving customer feedback tickets and refreshing tutorial steps for the first month or two. By the end of 2023, I was involved in a cross-service integration for Amazon ECS with Amazon Elastic Block Store (EBS). In May 2024, I took over ownership of documentation for AWS Cloud Map. In the following months, I was involved in projects such as scenario-based content refactoring, Amazon ECS restart policies, Cloud Map service-level attributes, and AWS CLI and SDK example expansion. For more information about these projects, see the following links in the portfolio:
-
-- [ECS integration with EBS developer guide](docs/dev-guide/ecs-ebs-integration)
-- [ECS integration with EBS UI](docs/ui-text/ecs-ebs-integration-ui)
-- [ECS restart policies API](docs/api-docs/data-types)
-- [ECS restart policies UI](docs/ui-text/ecs-restart-policy-ui)
-- [Cloud Map service-level attributes](docs/api-docs/operations)
-- [Scenario-based content refactoring](docs/broader-initiatives/scenario-based-content-refactoring)
-- [CLI and SDK examples](docs/broader-initiatives/cli-sdk-examples)
-
-### Technical Writer Intern: June 2022 - August 2022
-
-I interned at AWS as a writer on the Amazon ECS team. My internship experience was somewhat unconventional in that I got to work on a variety of tasks instead of a single project. Tasks I worked on included [updating an Amazon ECS Service Discovery tutorial](https://docs.aws.amazon.com/AmazonECS/latest/developerguide/create-service-discovery.html), creating a couple AWS CloudFormation infrastructure as code templates, updating an existing CLI example, and fixing syntax errors in a couple [code snippets in TypeScript and JavaScript](https://docs.aws.amazon.com/AmazonECS/latest/developerguide/tutorial-ecs-web-server-cdk.html#ecs-web-server-cdk-step-2).
-
-I even got the brief experience of documenting a new feature for Amazon Elastic Container Registry (ECR), however the launch was rolled back and not redone during or after my internship.
+Years after deciding to pursue technical writing professionally, I'm happy to say that it's been as enjoyable as I thought it would be.
 
 ## Skills
 
@@ -83,6 +53,41 @@ The following are some writing skills and standards I have experience or familia
 - Content strategy
 - The scenario-based refactoring project I worked on shared similarities with DITA
 - Working on writing projects solo and as part of a team
+
+## Professional journey
+
+My professional journey so far has been one of progression at AWS.
+
+### Technical Writer II: July 2025 - January 2026
+
+I got promoted to Technical Writer II ahead of Q3 2025. I was involved in writing documentation for Amazon Elastic Container Service (ECS) and AWS Cloud Map. I contributed to projects such as an open-source AWS CLI tutorials repository, product documentation for shared AWS Cloud Map namespaces, and an Infrastructure as Code chapter for Amazon ECS customer. For more information about these projects, see the following links in the portfolio:
+
+- [CLI tutorials](docs/broader-initiatives/open-source-tutorials)
+- [Shared namespaces](docs/dev-guide/shared-namespaces)
+- [Infrastructure as code](docs/broader-initiatives/infrastructure-as-code)
+
+### Technical Writer I: July 2023 - June 2025
+
+After a successful internship and graduation, I returned to AWS as a full-time writer. I started out working on documentation for Amazon ECS, resolving customer feedback tickets and refreshing tutorial steps for the first month or two. By the end of 2023, I was involved in a cross-service integration for Amazon ECS with Amazon Elastic Block Store (EBS). In May 2024, I took over ownership of documentation for AWS Cloud Map. In the following months, I was involved in projects such as scenario-based content refactoring, Amazon ECS restart policies, Cloud Map service-level attributes, and AWS CLI and SDK example expansion. For more information about these projects, see the following links in the portfolio:
+
+- [ECS integration with EBS developer guide](docs/dev-guide/ecs-ebs-integration)
+- [ECS integration with EBS UI](docs/ui-text/ecs-ebs-integration-ui)
+- [ECS restart policies API](docs/api-docs/data-types)
+- [ECS restart policies UI](docs/ui-text/ecs-restart-policy-ui)
+- [Cloud Map service-level attributes](docs/api-docs/operations)
+- [Scenario-based content refactoring](docs/broader-initiatives/scenario-based-content-refactoring)
+- [CLI and SDK examples](docs/broader-initiatives/cli-sdk-examples)
+
+### Technical Writer Intern: June 2022 - August 2022
+
+I interned at AWS as a writer on the Amazon ECS team. My internship experience was somewhat unconventional in that I got to work on a variety of tasks instead of a single project. The tasks I worked on included the following
+
+- [Updating an Amazon ECS Service Discovery tutorial](https://docs.aws.amazon.com/AmazonECS/latest/developerguide/create-service-discovery.html)
+- Creating a couple AWS CloudFormation infrastructure as code templates
+- Updating an existing CLI example
+- Fixing syntax errors in a couple [code snippets in TypeScript and JavaScript](https://docs.aws.amazon.com/AmazonECS/latest/developerguide/tutorial-ecs-web-server-cdk.html#ecs-web-server-cdk-step-2).
+
+I even got the brief experience of documenting a new feature for Amazon Elastic Container Registry (ECR). However, the launch was rolled back and not redone during or after my internship.
 
 ## Academic journey
 

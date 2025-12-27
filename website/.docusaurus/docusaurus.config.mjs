@@ -41,6 +41,19 @@ export default {
     "path": "i18n",
     "localeConfigs": {}
   },
+  "plugins": [
+    [
+      "@docusaurus/plugin-client-redirects",
+      {
+        "redirects": [
+          {
+            "to": "/about",
+            "from": "/docs/about"
+          }
+        ]
+      }
+    ]
+  ],
   "presets": [
     [
       "classic",
@@ -363,7 +376,6 @@ export default {
     "static"
   ],
   "customFields": {},
-  "plugins": [],
   "themes": [],
   "scripts": [],
   "headTags": [],
