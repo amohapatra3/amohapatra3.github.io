@@ -38,6 +38,30 @@ const config: Config = {
     locales: ["en"],
   },
 
+  plugins: [
+    [
+      "@docusaurus/plugin-client-redirects",
+      {
+        redirects: [
+          // Redirect a single deleted page
+          {
+            to: "/about",
+            from: "/docs/about", // 'from' can be a string or array of strings
+          },
+          // You can add more redirect rules here
+        ],
+        // You can also use createRedirects to automatically generate redirects
+        // based on existing pages' paths if you follow a specific pattern (e.g., when restructuring)
+        // createRedirects(existingPath) {
+        //   if (existingPath.includes('/docs/')) {
+        //     return existingPath.replace('/docs/', '/');
+        //   }
+        //   return undefined;
+        // },
+      },
+    ],
+  ],
+
   presets: [
     [
       "classic",
@@ -84,6 +108,7 @@ const config: Config = {
       //   src: 'img/logo.svg',
       // },
       items: [
+        { to: "/about", label: "About Me", position: "left" },
         {
           type: "docSidebar",
           sidebarId: "tutorialSidebar",
@@ -150,7 +175,7 @@ const config: Config = {
           items: [
             {
               label: "About me",
-              to: "/docs/about",
+              to: "/about",
             },
             {
               label: "GitHub",

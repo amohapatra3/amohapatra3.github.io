@@ -15,10 +15,6 @@
     "sidebar_position": 2
   },
   "sidebar": "tutorialSidebar",
-  "previous": {
-    "title": "About me",
-    "permalink": "/docs/about"
-  },
   "next": {
     "title": "Developer documentation",
     "permalink": "/docs/category/developer-documentation"

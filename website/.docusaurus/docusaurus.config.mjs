@@ -65,6 +65,11 @@ export default {
       "title": "Anupras Mohapatra",
       "items": [
         {
+          "to": "/about",
+          "label": "About Me",
+          "position": "left"
+        },
+        {
           "type": "docSidebar",
           "sidebarId": "tutorialSidebar",
           "position": "left",
@@ -113,7 +118,7 @@ export default {
           "items": [
             {
               "label": "About me",
-              "to": "/docs/about"
+              "to": "/about"
             },
             {
               "label": "GitHub",

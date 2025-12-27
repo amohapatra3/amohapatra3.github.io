@@ -8,13 +8,8 @@
           "label": "Next",
           "isLast": true,
           "path": "/docs",
-          "mainDocId": "about",
+          "mainDocId": "intro",
           "docs": [
-            {
-              "id": "about",
-              "path": "/docs/about",
-              "sidebar": "tutorialSidebar"
-            },
             {
               "id": "api-docs/data-types",
               "path": "/docs/api-docs/data-types",
@@ -95,8 +90,8 @@
           "sidebars": {
             "tutorialSidebar": {
               "link": {
-                "path": "/docs/about",
-                "label": "about"
+                "path": "/docs/intro",
+                "label": "intro"
               }
             }
           }
