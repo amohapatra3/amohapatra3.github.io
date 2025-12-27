@@ -11,7 +11,7 @@ type FeatureItem = {
 
 const FeatureList: FeatureItem[] = [
   {
-    title: 'Academic background',
+    title: 'Equal parts technical and writer',
     Svg: require('@site/static/img/education-svgrepo-com.svg').default,
     description: (
       <>
@@ -20,11 +20,11 @@ const FeatureList: FeatureItem[] = [
     ),
   },
   {
-    title: 'Professional experience',
+    title: 'Experienced in the cloud, open to more',
     Svg: require('@site/static/img/cloud-computing-transfer-svgrepo-com.svg').default,
     description: (
       <>
-        I have experience writing documentation for developers in the cloud computing space at Amazon Web Services (AWS) for products such as Amazon Elastic Container Service (ECS) and AWS Cloud Map. My professional experience, coupled with my academic background, equip me to explore the cloud further and to break into other technical domains such as game development, FinTech, and semiconductors. For more information, see <strong><a href="/docs/about#professional-journey">Professional journey</a></strong> and <strong><a href='/about#skills'>Skills</a></strong>.
+        I have experience writing documentation for developers in the cloud computing space at Amazon Web Services (AWS) for products such as Amazon Elastic Container Service (ECS) and AWS Cloud Map. My professional experience, coupled with my academic background, equip me to explore the cloud further and to dive deeper into other technical domains such as game development, FinTech, and semiconductors. For more information, see <strong><a href="/docs/about#professional-journey">Professional journey</a></strong> and <strong><a href='/about#skills'>Skills</a></strong>.
       </>
     ),
   },
