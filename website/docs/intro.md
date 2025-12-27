@@ -15,7 +15,7 @@ My portfolio consists of four sections highlighting the different types of conte
 - Broader documentation initiatives
 - UI text
 
-To learn more about me, see [About me](/docs/about.md).
+To learn more about me, see [About me](/about).
 
 ## Developer documentation
 
