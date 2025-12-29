@@ -107,4 +107,4 @@ For a downloadable, formatted version of my resume, see [Resume](@site/static/im
 
 ## Contact
 
-You can reach out to me at **manupras7@gmail.com** or on [LinkedIn](https://www.linkedin.com/in/~anupras).
+You can reach out to me at manupras7@gmail.com or on [LinkedIn](https://www.linkedin.com/in/~anupras).
