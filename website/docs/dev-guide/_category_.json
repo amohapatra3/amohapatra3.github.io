@@ -3,6 +3,6 @@
   "position": 3,
   "link": {
     "type": "generated-index",
-    "description": "As a writer at AWS, I worked on documentation for developers that use Amazon ECS and AWS Cloud Map. This documentation lives in developer guides. The following samples show how I approached two cross-product integrations and documented them in the ECS and Cloud Map developer guides."
+    "description": "As a writer at AWS, I worked on documentation for developers that use Amazon Elastic Container Service (ECS) and AWS Cloud Map. This documentation lives in developer guides. The following samples show how I approached two cross-product integrations and documented them in the Amazon ECS and AWS Cloud Map developer guides."
   }
 }
