@@ -3,6 +3,6 @@
   "position": 4,
   "link": {
     "type": "generated-index",
-    "description": "At AWS, I was responsible for documenting Application Programming Interfacs (APIs) for both Amazon ECS and AWS Cloud Map. Documenting APIs involved writing descriptions for complex data types, API actions, and their consituent parameters and errors. I also created request/response examples for API actions. For examples of my experience with API documentation, check out the following topics:"
+    "description": "At AWS, I was responsible for documenting Application Programming Interfacs (APIs) for both Amazon ECS and AWS Cloud Map. Documenting APIs involved writing descriptions for complex data types, API actions, and their consituent parameters and errors. I also created request/response examples for API actions. The following samples show how I created API documentation:"
   }
 }

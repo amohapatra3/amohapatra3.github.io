@@ -3,9 +3,6 @@
   "position": 5,
   "link": {
     "type": "generated-index",
-    "description": "Besides working on documentation for product enhancements and new features, I took an interest in initiatives in the content strategy and developer experience spaces. To learn more about some of the projects I worked on, check out the following examples: "
-  },
-  "customProps": {
-    "description": "This description can be used in the swizzled DocCard"
+    "description": "Besides working on documentation for product enhancements and new features, I took an interest in initiatives in the content strategy and developer experience spaces. The following are some initiatives I was involved in. "
   }
 }
