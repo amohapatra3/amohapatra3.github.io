@@ -54,8 +54,8 @@ const config: Config = {
           },
           {
             to: "/about",
-            from: "/images/resume.pdf"
-          }
+            from: "/images/resume.pdf",
+          },
           {
             to: "/docs/intro",
             from: "/samples.html",
