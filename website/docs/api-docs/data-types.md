@@ -30,19 +30,19 @@ The data type is defined as follows:
 
 ## Data type documentation writing process
 
-My approach when it comes to parameter descriptions is to include the following:
+My approach when writing parameter descriptions is to include the following:
 
 - a description of what the parameter is
 - a description of any applicable caveats and considerations
 - any applicable default values
 
-To avoid making descriptions too detailed, I also try to link to a topic in the developer guide that can provide more context.
+To avoid making descriptions too detailed, I also typically link to a topic in the developer guide that can provide more context.
 
 Putting together descriptions for the `RestartPolicy` parameters was part of the greater project of documenting restart policies. I followed these steps to create the documentation:
 
 1. I **read through high-level and low-level design documents** to get an understanding of what a restart policy is, and why it matters.
-2. I then drafted my documentation for the restart policies feature, including these data type parameter descriptions.
-3. After creating a draft, I **sought the feedback of the tech lead, engineering manager, and the product manager**. After some back and forth, I had finalized descriptions ready to publish.
+2. I then drafted my documentation for the restart policies feature, including these data type parameter descriptions. The documents described default values and constraints that I noted in my draft descriptions.
+3. After creating a draft, I **sought the feedback of the tech lead, engineering manager, and the product manager**. After some back and forth, the descriptions were ready to publish.
 
 ## Portfolio sample: `RestartPolicy` data type documentation
 
