@@ -9,17 +9,17 @@ Amazon Web Services (AWS) offers several ways for customers to use APIs such as 
 
 ## Challenge
 
-The CLI reference and a subset of SDK references such as JavaScript and boto3 (Python) feature examples that writers can create. Other SDK reference examples come from the SDK examples team. I'd created SDK reference examples for an AWS Cloud Map launch in November 2024. With this experience fresh in mind, when I looked at the SDK and CLI references, I realized that certain API operations didn't have examples at all. Other operations had outdated examples or lacked basic examples for recently launched features.
+The CLI reference and a subset of SDK references such as JavaScript and boto3 (Python) feature examples that writers can create. Other SDK reference examples come from the SDK examples team. I'd created SDK reference examples for an AWS Cloud Map launch in November 2024. With this experience fresh in mind, when I looked at the SDK and CLI references for Amazon ECS and AWS Cloud Map, I realized that certain API operations didn't have examples at all. Other operations had outdated examples or lacked basic examples for recently launched features.
 
-I managed to identify a gap in our documentation: a lack of examples for the CLI and the SDK. The challenge was to create examples to fill the gaps.
+I managed to identify a gap in our documentation: a lack of examples for the CLI and the SDK. The challenge was to create examples to fill the gap.
 
 ## Action
 
 I took the following steps to bridge the examples gap:
 
-1. The first thing I did was make note of the operations that lacked examples and what type (CLI or SDK) of example they lacked. I **identified about 30 operations across Amazon ECS and AWS Cloud Map that either had zero examples or lacked examples for recent launches**.
-2. I then started creating examples. SDK reference examples had to be created using **XML and JSON**. The XML and JSON get translated into code snippets when published in various SDKs. CLI examples had to be created using **reStructuredText**. My focus was to **create basic examples that demonstrated how parameters came together in a CLI command or an SDK request**. In some cases, I **found relevant examples in the API reference and the AWS CloudFormation reference, so I 'translated' the examples into reStructuredText or XML and JSON depending on the use case.**
-3. After creating examples, I had to publish them. The publication of CLI examples was handled by the AWS CLI team (a writer and a couple engineers). For SDK reference examples, I had to create an SDK release.
+1. The first thing I did was make note of operations that lacked adequate CLI examples and operations that lacked adequate SDK reference examples. I **identified about 30 operations across both CLI and SDK references for Amazon ECS and AWS Cloud Map that either had zero examples or lacked examples for recent launches**.
+2. I then started creating examples. I created SDK reference examples using a mix of **XML and JSON**. The XML and JSON gets translated into code snippets as part of the SDK release process. I created CLI examples using **reStructuredText**. My focus was to **create basic examples that demonstrated how parameters came together in a CLI command or an SDK request for simple use cases**. For some operations, I **found relevant examples in the API reference and the AWS CloudFormation reference, so I 'translated' the examples into reStructuredText or XML and JSON depending on what I needed.**
+3. After creating examples, I had to publish them. The publication of CLI examples was handled by the AWS CLI team (a writer and a couple engineers), so I cut them a ticket. For SDK reference examples, I had to create a documentation SDK release.
 
 ## Result
 
@@ -27,7 +27,7 @@ The result of this effort was the following:
 
 - We had tracking metrics for what percentage of CLI commands for a given AWS service had at least one example. Due to my efforts, **Amazon ECS reached almost 100% example coverage**, and **AWS Cloud Map reached 100% example coverage**. The same was true for SDKs that featured examples provided by writers.
 - Months later, I was involved in a group effort to create an open-source repository of CLI tutorials using generative AI. When we went through the process of creating tutorials for various AWS services, we found that **it was harder to create accurate tutorials for services that lacked examples**. **Creating tutorials for ECS and Cloud Map was easier because of this effort I had undertaken**. LLMs can't be used effectively by customers or writers to generate derivative content if the data source is incomplete. For more information about my involvement in the creation of this open-source tutorial repository, see [Working collaboratively on an open-source, AI-driven AWS CLI tutorials repository](open-source-tutorials.md).
-- As a computer science student, I had to read documentation. I recognized the importance of having examples that showed me how things worked. Something simple that I could maybe copy and paste. The examples fill a gap that we previously had in this space.
+- As a computer science student, I had to read documentation. I recognized the importance of having examples that showed me how things worked. Something simple that I could maybe copy and paste. The examples filled a gap that we previously had in this space.
 
 ## Portfolio samples
 
@@ -35,7 +35,7 @@ The following are a few of the CLI and SDK examples I created.
 
 ### CLI example
 
-I created a couple CLI examples for the `update-service` command for Amazon ECS for using EBS volumes with ECS and to stop using EBS volumes. This command corresponds with the `UpdateService` API operation.
+I created a couple CLI examples for the `update-service` command for Amazon ECS for using Amazon EBS volumes with ECS and to stop using EBS volumes with ECS. This command is the same as the `UpdateService` API operation.
 
 The following is one of the command examples I created. **To view the example in the AWS CLI reference, see [update-service](https://docs.aws.amazon.com/cli/latest/reference/ecs/update-service.html#examples)**.
 
@@ -245,4 +245,4 @@ I used the following tools and technologies to create examples:
 - **git** for version control
 - **AWS CLI** for testing
 
-I also used the [Amazon ECS API reference](https://docs.aws.amazon.com/AmazonECS/latest/APIReference/), the [AWS Cloud Map API reference](https://docs.aws.amazon.com/cloud-map/latest/api/), and the AWS CloudFormation template reference for [Amazon ECS](https://docs.aws.amazon.com/AWSCloudFormation/latest/TemplateReference/AWS_ECS.html) and [AWS Cloud Map](https://docs.aws.amazon.com/AWSCloudFormation/latest/TemplateReference/AWS_ServiceDiscovery.html).
+In addition to tools and technologies, I referred to the [Amazon ECS API reference](https://docs.aws.amazon.com/AmazonECS/latest/APIReference/), the [AWS Cloud Map API reference](https://docs.aws.amazon.com/cloud-map/latest/api/), and the AWS CloudFormation template reference for [Amazon ECS](https://docs.aws.amazon.com/AWSCloudFormation/latest/TemplateReference/AWS_ECS.html) and [AWS Cloud Map](https://docs.aws.amazon.com/AWSCloudFormation/latest/TemplateReference/AWS_ServiceDiscovery.html).
