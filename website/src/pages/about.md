@@ -4,7 +4,7 @@ title: About me
 
 # About me
 
-I'm Anupras, a technical writer with almost 3 years experience at [Amazon Web Services (AWS)](https://aws.amazon.com). I have a bachelor's degree in computer science and journalism from the [University of Wisconsin-Madison](https://aws.amazon.com). I was born in India, raised in the United Arab Emirates, and have studied and worked in the United States.
+I'm Anupras, a technical writer with almost 3 years experience at [Amazon Web Services (AWS)](https://aws.amazon.com). I have a bachelor's degree in computer science and journalism from the [University of Wisconsin-Madison](https://www.wisc.edu). I was born in India, raised in the United Arab Emirates, and have studied and worked in the United States.
 
 I'm currently based in Austin, Texas and open to relocation if necessary. I'm excited by the prospect of exploring new cities and countries through work. In fact, that's how I ended up in Austin, and it's been good.
 
@@ -52,7 +52,7 @@ The following are some writing skills and standards I have experience or familia
 - Following style guides
 - Content strategy
 - The scenario-based refactoring project I worked on shared similarities with DITA
-- Working on writing projects solo and as part of a team
+- Working on multiple writing projects solo and with other writers
 
 ## Professional journey
 
