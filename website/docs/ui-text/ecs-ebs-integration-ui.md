@@ -15,7 +15,7 @@ Amazon EBS data volumes for Amazon ECS tasks are block storage devices that can 
 
 ## Documentation process
 
-Putting together UI text for this feature was a subtask within the broader documentation project for the feature. I followed these steps:
+Putting together UI text for this feature was a subtask within the [broader documentation project](/docs/dev-guide/ecs-ebs-integration.md) for the feature. I followed these steps:
 
 1. After **establishing some understanding of what Amazon EBS volumes are and how they relate to Amazon ECS**, I **looked at UI mockups that the UX designer for the project had shared with me**. I **added comments for what UI text should be for each field, adhering to the internal style guide**. Many fields were 1:1 mappings of EBS volumes for Amazon EC2 instances, so it made sense for the UI text to be consistent across the ECS and EC2 consoles.
 2. I **collaborated with a frontend engineer on the ECS team** to decide what fields needed help panels and to provide him help panels for those fields. Once again, it made sense for language in the help panels to be consistent with help panels for the EC2 console. The engineer **added me to UI change code reviews (CRs)**, and I **left comments on TypeScript source code CRs suggesting updates to UI strings in the code**.
