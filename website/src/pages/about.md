@@ -82,9 +82,9 @@ After a successful internship and graduation, I returned to AWS as a full-time w
 
 I interned at AWS as a writer on the Amazon ECS team. My internship experience was somewhat unconventional in that I got to work on a variety of tasks instead of a single project. The tasks I worked on included the following:
 
-- [Updating an Amazon ECS Service Discovery tutorial](https://docs.aws.amazon.com/AmazonECS/latest/developerguide/create-service-discovery.html)
-- Creating a couple AWS CloudFormation infrastructure as code templates
-- Updating an existing CLI example
+- [Updating an Amazon ECS Service Discovery tutorial](https://docs.aws.amazon.com/AmazonECS/latest/developerguide/create-service-discovery.html).
+- Creating a couple AWS CloudFormation infrastructure as code templates.
+- Updating an existing CLI example.
 - Fixing syntax errors in a couple [code snippets in TypeScript and JavaScript](https://docs.aws.amazon.com/AmazonECS/latest/developerguide/tutorial-ecs-web-server-cdk.html#ecs-web-server-cdk-step-2).
 
 I even got the brief experience of documenting a new feature for Amazon Elastic Container Registry (ECR). However, the launch was rolled back and not redone during or after my internship.
