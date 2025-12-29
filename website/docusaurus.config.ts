@@ -53,7 +53,7 @@ const config: Config = {
             from: "/resume.html",
           },
           {
-            to: "/docs",
+            to: "/docs/intro",
             from: "/samples.html",
           },
           // You can add more redirect rules here

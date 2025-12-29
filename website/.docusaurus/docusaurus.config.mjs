@@ -55,7 +55,7 @@ export default {
             "from": "/resume.html"
           },
           {
-            "to": "/docs",
+            "to": "/docs/intro",
             "from": "/samples.html"
           }
         ]
