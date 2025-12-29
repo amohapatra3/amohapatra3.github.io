@@ -50,7 +50,7 @@ After following these steps, I was able to successfully publish Service Connect 
 
 ## Portfolio samples
 
-### Cloud Map
+### AWS Cloud Map
 
 The developer guide documentation I wrote for Cloud Map shared namespaces can be found in a chapter in the AWS Cloud Map developer guide. **To view the documentation in the AWS Cloud Map developer guide, see [Shared AWS Cloud Map namespaces](https://docs.aws.amazon.com/cloud-map/latest/dg/sharing-namespaces.html).**
 
