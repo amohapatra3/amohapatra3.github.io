@@ -4,21 +4,21 @@ title: About me
 
 # About me
 
-I'm Anupras, a technical writer with almost 3 years experience at Amazon Web Services (AWS), and a computer science and journalism graduate of the University of Wisconsin-Madison. I was born in India, raised in the United Arab Emirates, and have studied and worked in the United States.
+I'm Anupras, a technical writer with almost 3 years experience at [Amazon Web Services (AWS)](https://aws.amazon.com). I have a bachelor's degree in computer science and journalism from the [University of Wisconsin-Madison](https://aws.amazon.com). I was born in India, raised in the United Arab Emirates, and have studied and worked in the United States.
 
 I'm currently based in Austin, Texas and open to relocation if necessary. I'm excited by the prospect of exploring new cities and countries through work. In fact, that's how I ended up in Austin, and it's been good.
 
 Outside of work, I am:
 
-- a football (soccer) and Formula 1 aficionado
-- a trivia enthusiast
-- a sporadic writer and a casual reader
-- a fan of indie rock
-- an appreciator of the variety of cultures, languages, and cuisines the world has to offer
+- A football (soccer) and Formula 1 aficionado
+- A trivia enthusiast
+- A sporadic writer and a casual reader
+- A fan of indie rock
+- An appreciator of the variety of cultures, languages, and cuisines the world has to offer
 
 ## Why technical writing?
 
-In 2020, a teaching assistant (TA) for a linguistics class that I was taking had mentioned working as a technical writer. It was the first semester of a COVID-riddled sophomore year. I wasn't thinking about my career then, but somewhere in the back of my mind, I made note of technical writing as a potential future profession.
+In 2020, a teaching assistant (TA) for a linguistics class that I was taking had mentioned working as a technical writer prior to academia. It was the first semester of a COVID-riddled sophomore year. I wasn't thinking about my career then, but somewhere in the back of my mind, I made note of technical writing as a potential future profession.
 
 By late 2021, I was a junior who was actively looking for internships. I had already applied to a handful of tech internships when the memory of my old TA resurfaced. I took a moment to explore the profession more closely and realized it made perfect sense. Technical writing was the perfect convergence of my academic background. The idea of helping customers accomplish their goals through documentation and, in the process, getting to learn new technologies seemed fulfilling. With this realization, my internship search was more focused, and I eventually found an opportunity at AWS.
 
