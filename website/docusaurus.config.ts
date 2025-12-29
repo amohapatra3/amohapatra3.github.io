@@ -48,6 +48,14 @@ const config: Config = {
             to: "/about",
             from: "/docs/about", // 'from' can be a string or array of strings
           },
+          {
+            to: "/about",
+            from: "/resume.html",
+          },
+          {
+            to: "/docs",
+            from: "/samples.html",
+          },
           // You can add more redirect rules here
         ],
         // You can also use createRedirects to automatically generate redirects

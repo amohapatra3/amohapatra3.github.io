@@ -49,6 +49,14 @@ export default {
           {
             "to": "/about",
             "from": "/docs/about"
+          },
+          {
+            "to": "/about",
+            "from": "/resume.html"
+          },
+          {
+            "to": "/docs",
+            "from": "/samples.html"
           }
         ]
       }
