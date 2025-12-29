@@ -28,7 +28,7 @@ With these launches being cross-service integrations, I had to work with stakeho
 
 ### Process for Cloud Map documentation
 
-The following is a more detailed overview of my process for drafting Cloud Map developer gtuide documentation for this feature. Besides the developer guide, I made **updates to the API reference** and **left comments on Java and TypeScript code reviews (CRs) involving error messages and UI text**.
+The following is a more detailed overview of my process for drafting Cloud Map developer gtuide documentation for this feature. Besides the developer guide, I made **updates to the API reference** and **left comments on Java and TypeScript code reviews (CRs) for error messages and UI text**.
 
 1. I started working on this feature in September 2024. To identify what's changing with AWS Cloud Map and why, I read through a variety of documents. **The famous Amazon [PR/FAQ](https://www.aboutamazon.com/news/workplace/an-insider-look-at-amazons-culture-and-processes) provided me a product perspective about shared namespaces and helped me understand why this feature was needed**. I then **found a Quip folder full of design documents and went from high-level to low-level design to understand the technical details of the feature**.
 2. I then **mapped the changes to the developer guide and made note of necessary API changes**. This was clearly a namespaces feature, so I **knew I had to create a chapter under 'namespaces' in the developer guide**. No new API actions or data types were being added, but a couple new parameters such as `ResourceOwner` and `CreatedByAccount` were being added. I **noted these new parameters** ahead of drafting documentation for the developer guide.
