@@ -18,8 +18,9 @@ For more information about Amazon ECS, see [Amazon ECS](https://docs.aws.amazon.
 
 Putting together UI text for this feature was a subtask within the broader documentation project for the feature. I followed these steps:
 
-1. After **establishing some understanding of what restart policies are and how they relate to Amazon ECS**, I **looked at UI screenshots in a Quip design document**. I then **connected with the frontend engineer** who was handling UI updates for the launch and **provided feedback in the document and over Slack for what the text should be**.
-2. I then **created a help panel and provided information about the help panel to the engineer** so he could add it to the UI.
+1. After **establishing some understanding of what restart policies are and how they relate to Amazon ECS**, I **looked at UI screenshots in a Quip design document** to understand what's changing in the console.
+2. I then **connected with the frontend engineer** who was handling UI updates for the launch and **provided feedback in the document and over Slack for what the text should be**.
+3. I **created a help panel and provided information about the help panel to the engineer** so he could add it to the UI.
 
 The UI changes were released successfully on launch day in August 2024.
 
