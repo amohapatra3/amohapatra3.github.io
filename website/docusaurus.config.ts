@@ -53,6 +53,10 @@ const config: Config = {
             from: "/resume.html",
           },
           {
+            to: "/about",
+            from: "/images/resume.pdf"
+          }
+          {
             to: "/docs/intro",
             from: "/samples.html",
           },
