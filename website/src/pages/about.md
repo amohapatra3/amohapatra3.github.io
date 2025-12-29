@@ -22,7 +22,7 @@ In 2020, a teaching assistant (TA) for a linguistics class that I was taking had
 
 By late 2021, I was a junior who was actively looking for internships. I had already applied to a handful of tech internships when the memory of my old TA resurfaced. I took a moment to explore the profession more closely and realized it made perfect sense. Technical writing was the perfect convergence of my academic background. The idea of helping customers accomplish their goals through documentation and, in the process, getting to learn new technologies seemed fulfilling. With this realization, my internship search was more focused, and I eventually found an opportunity at AWS.
 
-Years after deciding to pursue technical writing professionally, I'm happy to say that it's been as enjoyable as I thought it would be.
+Years after deciding to pursue technical writing professionally, I'm happy to say that it's been as enjoyable and fulfilling as I thought it would be.
 
 ## Skills
 
