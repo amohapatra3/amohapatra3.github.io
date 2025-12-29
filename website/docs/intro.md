@@ -6,7 +6,7 @@ sidebar_position: 2
 
 This portfolio is a collection of writing samples from my time at Amazon Web Services (AWS) working on docs for Amazon Elastic Container Service (ECS) and AWS Cloud Map. Amazon ECS is a container orchestration service that allows customers to run application code and its dependencies on cloud-based virtual servers (Amazon EC2 instances). Customers can focus on code and configurations, while ECS handles infrastructure on their behalf. AWS Cloud Map is a service that allows customers to register and track backend AWS resources using API calls and DNS queries.
 
-For more information about Amazon ECS, see [Amazon ECS](https://docs.aws.amazon.com/AmazonECS/latest/developerguide/Welcome.html). For more information about AWS Cloud Map, see [AWS Cloud Map](https://docs.aws.amazon.com/cloud-map/latest/dg/what-is-cloud-map.html).
+For more information about Amazon ECS, see [What is Amazon ECS?](https://docs.aws.amazon.com/AmazonECS/latest/developerguide/Welcome.html). For more information about AWS Cloud Map, see [What is AWS Cloud Map?](https://docs.aws.amazon.com/cloud-map/latest/dg/what-is-cloud-map.html).
 
 My portfolio consists of four sections for the different types of content I have delivered:
 
