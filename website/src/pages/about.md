@@ -51,7 +51,7 @@ The following are some writing skills and standards I have experience or familia
 - Generative AI prompting
 - Following style guides
 - Content strategy
-- The scenario-based refactoring project I worked on shared similarities with DITA
+- Some understanding of DITA
 - Working on multiple writing projects solo and with other writers
 
 ## Professional journey
@@ -80,7 +80,7 @@ After a successful internship and graduation, I returned to AWS as a full-time w
 
 ### Technical Writer Intern: June 2022 - August 2022
 
-I interned at AWS as a writer on the Amazon ECS team. My internship experience was somewhat unconventional in that I got to work on a variety of tasks instead of a single project. The tasks I worked on included the following
+I interned at AWS as a writer on the Amazon ECS team. My internship experience was somewhat unconventional in that I got to work on a variety of tasks instead of a single project. The tasks I worked on included the following:
 
 - [Updating an Amazon ECS Service Discovery tutorial](https://docs.aws.amazon.com/AmazonECS/latest/developerguide/create-service-discovery.html)
 - Creating a couple AWS CloudFormation infrastructure as code templates
