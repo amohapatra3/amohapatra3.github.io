@@ -15,7 +15,7 @@ const FeatureList: FeatureItem[] = [
     Svg: require('@site/static/img/toolbox-svgrepo-com.svg').default,
     description: (
       <>
-        As a result of majoring in both computer science and journalism at the University of Wisconsin-Madison, I possess a unique toolbox of skills that set me up for success as a technical writer.  My computer science background helps me learn and test new technologies hands on, while my journalism background helps me investigate design docs and probe Subject Matter Experts (SMEs) for product information. This skillset also helps with learning different tools and industry standards for writing documentation. For more information, see <strong><a href='/about#academic-journey'>Academic journey</a></strong>.
+        As a result of majoring in both computer science and journalism at the University of Wisconsin-Madison, I possess a unique toolbox of skills that set me up for success as a technical writer.  My computer science background helps me learn and test new technologies hands on, while my journalism background helps me investigate design docs and probe Subject Matter Experts (SMEs) for product information. This skillset also helps with learning different tools and industry standards for developing content. For more information, see <strong><a href='/about#academic-journey'>Academic journey</a></strong>.
       </>
     ),
   },
@@ -24,7 +24,7 @@ const FeatureList: FeatureItem[] = [
     Svg: require('@site/static/img/cloud-computing-transfer-svgrepo-com.svg').default,
     description: (
       <>
-        I have experience writing documentation for developers in the cloud computing space at Amazon Web Services (AWS) for products such as Amazon Elastic Container Service (ECS) and AWS Cloud Map. My professional experience, coupled with my academic background, equip me to explore the cloud further and to dive deeper into other technical domains such as game development, FinTech, and semiconductors. For more information, see <strong><a href="/docs/about#professional-journey">Professional journey</a></strong> and <strong><a href='/about#skills'>Skills</a></strong>.
+        I have experience writing documentation for developers in the cloud computing space at Amazon Web Services (AWS) for products such as Amazon Elastic Container Service (ECS) and AWS Cloud Map. I also have extensive experience as a student journalist, whether it's writing introspective editorials and reviews or poetry. My experience, coupled with my academic background, equip me to explore creating content for the cloud further and to dive deeper into other technical domains such as game development, FinTech, and semiconductors. For more information, see <strong><a href="/docs/about#professional-journey">Professional journey</a></strong> and <strong><a href='/about#skills'>Skills</a></strong>.
       </>
     ),
   },
