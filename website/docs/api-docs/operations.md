@@ -7,7 +7,7 @@ sidebar_label: "AWS Cloud Map API operations"
 
 An Amazon Web Services (AWS) customer can perform a variety of operations using APIs. For example, they can create an AWS resource such as an S3 bucket, update the resource, retrieve information about the resource, and delete the resource (CRUD operations). These operations are also referred to as **actions**. When documenting APIs at AWS, I was responsible for the descriptions of actions and their associated request and response parameters. I also created request and response examples for the actions. The following example in my portfolio showcases how I handled descriptions and examples for AWS Cloud Map actions related to service-level attributes.
 
-For more information about AWS Cloud Map, see [WHat is AWS Cloud Map?](https://docs.aws.amazon.com/cloud-map/latest/dg/what-is-cloud-map.html).
+For more information about AWS Cloud Map, see [WHat is AWS Cloud Map?](https://docs.aws.amazon.com/cloud-map/latest/dg/what-is-cloud-map.html)
 
 ## Service-level attribute actions
 

@@ -91,15 +91,23 @@ I even got the brief experience of documenting a new feature for Amazon Elastic 
 
 ## Academic journey
 
-I graduated with a Bachelor's degree from the University of Wisconsin-Madison in May 2023. I studied computer science and journalism. I was also an active member of the [Daily Cardinal](https://www.dailycardinal.com/page/about-us), UW-Madison's leading on-campus student newspaper. The following are some highlights from my time as a student at UW-Madison:
+I graduated with a Bachelor's degree from the University of Wisconsin-Madison in May 2023. I studied computer science and journalism, was on the dean's list for six semesters, and received a couple scholarships from the journalism school. I was also an active member of the [Daily Cardinal](https://www.dailycardinal.com/page/about-us), UW-Madison's leading on-campus student newspaper. The following are some highlights from my time at the Cardinal:
 
-- I was an **[Opinion](https://www.dailycardinal.com/section/opinion) page editor** at the Daily Cardinal from **January to December 2020**. I worked with a coeditor to **review editorial submissions from a group of 5-10 contributors** and **ensure that we had editorials ready to publish every Thursday**. Due to COVID-19, I had to **collaborate across time zones with people who were 10-12 hours behind me**. We followed the Associated Press (AP) styleguide.
-- I was a **member of the editorial board** at the Daily Cardinal from **January 2020 to May 2023**. I **worked collaboratively with other members of the board** — all fellow students — to define the stance of the organization on issues relevant to the student body in the form of [editorials co-authored under the editorial board byline](https://www.dailycardinal.com/search?a=1&s=&ti=&ts_month=01&ts_day=0&ts_year=2020&te_month=05&te_day=0&te_year=2023&au=The+Daily+Cardinal+Editorial+Board&tg=&ty=article&o=date).
-- I was a **staff writer** at the Daily Cardinal from **September 2019 to December 2019**, and a **senior staff writer** from **January 2021 to May 2023**. I wrote **[80 articles](https://www.dailycardinal.com/staff/anupras-mohapatra)** ranging from editorials to food and music reviews to poetry and soccer recaps. Not all of it was great writing, but I learned a lot.
-- I received a **[Online: Best Editorial or Commentary - Gold](https://milwaukeepressclub.org/2022-excellence-in-journalism-awardees/#collegiate)** award from the **Milwaukee Press Club** for a 2022 editorial I wrote for the Daily Cardinal. The **oldest continously operating press club in North America**, the Milwaukee Press Club **confers state-level recognition annually** to Wisconsin-based college students for **excellence in student journalism**.
-- I received the **[Sigrid Schultz scholarship](https://wisc.academicworks.com/opportunities/86867)** in March 2023 and **[Catherine E Klein memorial fund scholarship](https://wisc.academicworks.com/opportunities/86661)** in March 2022 from the **UW-Madison School of Journalism and Mass Communication**.
-- I was on the **Dean's list** in these semesters: Fall 2019, Spring 2020, Fall 2020, Fall 2021, Fall 2022, Spring 2023.
-- I graduated with a GPA of **3.78/4**.
+### Senior Staff Writer: January 2021 to May 2023
+
+After completing my stint as an editor who wrote sporadically, I returned to becoming a writer primarily. By the time I graduated, I ended with [**80 bylines**](https://www.dailycardinal.com/staff/anupras-mohapatra) to my name. I primarily wrote introspective editorials, food and music reviews, and poetry. I received a **[Online: Best Editorial or Commentary - Gold](https://milwaukeepressclub.org/2022-excellence-in-journalism-awardees/#collegiate)** award from the **Milwaukee Press Club** for a 2022 editorial I wrote for the Cardinal. The **oldest continously operating press club in North America**, the Milwaukee Press Club **confers state-level recognition annually** to Wisconsin-based college students for **excellence in student journalism**.
+
+### Editorial Board member: January 2020 to May 2023
+
+I was a **member of the editorial board** at the Daily Cardinal from **January 2020 to May 2023**. I **worked collaboratively with other members of the board** — all fellow students — to define the stance of the organization on issues relevant to the student body in the form of [editorials co-authored under the editorial board byline](https://www.dailycardinal.com/search?a=1&s=&ti=&ts_month=01&ts_day=0&ts_year=2020&te_month=05&te_day=0&te_year=2023&au=The+Daily+Cardinal+Editorial+Board&tg=&ty=article&o=date).
+
+### Opinion Editor: January 2020 to December 2020
+
+I was an **[Opinion](https://www.dailycardinal.com/section/opinion) page editor** at the Daily Cardinal from **January to December 2020**. I worked with a coeditor to **review editorial submissions from a group of 5-10 contributors** and **ensure that we had editorials ready to publish every Thursday**. Due to COVID-19, I had to **collaborate across time zones with people who were 10-12 hours behind me**. We followed the Associated Press (AP) styleguide.
+
+## Staff Writer: September 2019 to December 2019
+
+I was a **staff writer** at the Daily Cardinal from **September 2019 to December 2019**. My stint as a staff writer ended after I was elected to the editor position. During my time as a staff writer, I was assigned to the Wisconsin Badgers men's soccer beat and wrote a match recap. I also supported pregame coverage for a Badger football preseason game, despite knowing little about American Football at the time. I also branched out into editorials and poetry.
 
 ## Resume
 
