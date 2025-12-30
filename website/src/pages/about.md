@@ -105,7 +105,7 @@ I was a **member of the editorial board** at the Daily Cardinal from **January 2
 
 I was an **[Opinion](https://www.dailycardinal.com/section/opinion) page editor** at the Daily Cardinal from **January to December 2020**. I worked with a coeditor to **review editorial submissions from a group of 5-10 contributors** and **ensure that we had editorials ready to publish every Thursday**. Due to COVID-19, I had to **collaborate across time zones with people who were 10-12 hours behind me**. We followed the Associated Press (AP) styleguide.
 
-## Staff Writer: September 2019 to December 2019
+### Staff Writer: September 2019 to December 2019
 
 I was a **staff writer** at the Daily Cardinal from **September 2019 to December 2019**. My stint as a staff writer ended after I was elected to the editor position. During my time as a staff writer, I was assigned to the Wisconsin Badgers men's soccer beat and wrote a match recap. I also supported pregame coverage for a Badger football preseason game, despite knowing little about American Football at the time. I also branched out into editorials and poetry.
 
