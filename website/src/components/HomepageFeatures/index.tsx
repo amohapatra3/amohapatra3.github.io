@@ -24,7 +24,7 @@ const FeatureList: FeatureItem[] = [
     Svg: require('@site/static/img/cloud-computing-transfer-svgrepo-com.svg').default,
     description: (
       <>
-        I have experience writing documentation for developers in the cloud computing space at Amazon Web Services (AWS) for products such as Amazon Elastic Container Service (ECS) and AWS Cloud Map. I also have extensive experience as a student journalist, with my writing ranging from introspective editorials and reviews to satire and poetry. My experience and academic background equips me to create technical content for the cloud but also to dive deeper into other technical domains such as game development, FinTech, and semiconductors. For more information, see <strong><a href="/docs/about#professional-journey">Professional journey</a></strong> and <strong><a href='/about#skills'>Skills</a></strong>.
+        I have experience writing documentation for developers in the cloud computing space at Amazon Web Services (AWS) for products such as Amazon Elastic Container Service (ECS) and AWS Cloud Map. I also have extensive experience as a student journalist, with my writing ranging from introspective editorials and reviews to satire and poetry. My experience and academic background equips me to create technical content for the cloud but also to dive deeper into other technical domains such as game development, FinTech, AI/ML, and semiconductors. For more information, see <strong><a href="/docs/about#professional-journey">Professional journey</a></strong> and <strong><a href='/about#skills'>Skills</a></strong>.
       </>
     ),
   },
