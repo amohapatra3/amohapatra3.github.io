@@ -19,5 +19,9 @@
   "previous": {
     "title": "Amazon ECS integration with Amazon EBS",
     "permalink": "/docs/ui-text/ecs-ebs-integration-ui"
+  },
+  "next": {
+    "title": "Storytelling",
+    "permalink": "/docs/storytelling"
   }
 }

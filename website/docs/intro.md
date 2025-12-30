@@ -1,19 +1,20 @@
 ---
-sidebar_position: 2
+sidebar_position: 1
 ---
 
 # Introduction to the portfolio
 
-This portfolio is a collection of writing samples from my time at Amazon Web Services (AWS) working on docs for Amazon Elastic Container Service (ECS) and AWS Cloud Map. Amazon ECS is a container orchestration service that allows customers to run application code and its dependencies on cloud-based virtual servers (Amazon EC2 instances). Customers can focus on code and configurations, while ECS handles infrastructure on their behalf. AWS Cloud Map is a service that allows customers to register and track backend AWS resources using API calls and DNS queries.
+This portfolio is a collection of writing samples from my time at Amazon Web Services (AWS) working on developer documentation and my time at the Daily Cardinal working on editorials. At AWS, I wrote documentation for Amazon Elastic Container Service (ECS) and AWS Cloud Map. Amazon ECS is a container orchestration service that allows customers to run application code and its dependencies on cloud-based virtual servers (Amazon EC2 instances). Customers can focus on code and configurations, while ECS handles infrastructure on their behalf. AWS Cloud Map is a service that allows customers to register and track backend AWS resources using API calls and DNS queries.
 
 For more information about Amazon ECS, see [What is Amazon ECS?](https://docs.aws.amazon.com/AmazonECS/latest/developerguide/Welcome.html) For more information about AWS Cloud Map, see [What is AWS Cloud Map?](https://docs.aws.amazon.com/cloud-map/latest/dg/what-is-cloud-map.html)
 
-My portfolio consists of four sections for the different types of content I have delivered:
+My portfolio consists of five sections for the different types of content I have delivered:
 
 - Developer documentation
 - API reference
 - Broader documentation initiatives
 - UI text
+- Storytelling
 
 To learn more about me, see [About me](/about).
 
@@ -32,3 +33,7 @@ Besides working on regular feature documentation, I was involved in a couple doc
 ## UI text
 
 For customers that don't want to call APIs programmatically, AWS provides a Graphical User Interface (GUI) called the AWS Management Console. Updates to the APIs would often result in updates to this console such as new forms and fields. I contributed to UI text on the console for new or updated Amazon ECS and AWS Cloud Map forms and fields. To view examples of this type of documentation, see **[UI text](category/ui-text)**.
+
+## Storytelling
+
+Storytelling samples are a small sampling of the articles I wrote for the Daily Cardinal, UW-Madison's leading student newspaper. To view samples, see **[Storytelling](storytelling)**.

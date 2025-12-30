@@ -56,6 +56,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "storytelling",
+              "path": "/docs/storytelling",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "ui-text/ecs-ebs-integration-ui",
               "path": "/docs/ui-text/ecs-ebs-integration-ui",
               "sidebar": "tutorialSidebar"

@@ -114,15 +114,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '245'),
+    component: ComponentCreator('/docs', 'e26'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', '2dd'),
+        component: ComponentCreator('/docs', 'ecc'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', 'd0c'),
+            component: ComponentCreator('/docs', '0cd'),
             routes: [
               {
                 path: '/docs/api-docs/data-types',
@@ -199,6 +199,12 @@ export default [
               {
                 path: '/docs/intro',
                 component: ComponentCreator('/docs/intro', '61d'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/storytelling',
+                component: ComponentCreator('/docs/storytelling', '5ed'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
