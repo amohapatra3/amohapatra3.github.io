@@ -7,7 +7,7 @@ import type * as Preset from "@docusaurus/preset-classic";
 const config: Config = {
   title: "Anupras Mohapatra",
   tagline:
-    "Technical writer with an interest in content strategy and developer experience.",
+    "Content developer with an interest in content strategy, developer experience, and the intersection of technology and content.",
   // favicon: 'img/favicon.ico',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
