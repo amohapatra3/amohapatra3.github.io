@@ -5,7 +5,7 @@
  */
 export default {
   "title": "Anupras Mohapatra",
-  "tagline": "Technical writer with an interest in content strategy and developer experience.",
+  "tagline": "Content developer with an interest in content strategy, developer experience, and the intersection of technology and content.",
   "future": {
     "v4": {
       "removeLegacyPostBuildHeadAttribute": true,
