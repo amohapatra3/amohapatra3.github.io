@@ -107,7 +107,7 @@ I was an **[Opinion](https://www.dailycardinal.com/section/opinion) page editor*
 
 ### Staff Writer: September 2019 to December 2019
 
-I was a **staff writer** at the Daily Cardinal from **September 2019 to December 2019**. My stint as a staff writer ended after I was elected to the editor position. During my time as a staff writer, I was assigned to the Wisconsin Badgers men's soccer beat and wrote a match recap. I also supported pregame coverage for a Badger football preseason game, despite knowing little about American Football at the time. I also branched out into editorials and poetry.
+I was a **staff writer** at the Daily Cardinal from **September 2019 to December 2019**. My stint as a staff writer ended after I was elected to the editor position. During my time as a staff writer, I was assigned to the Wisconsin Badgers men's soccer beat and wrote a match recap. I also supported pregame coverage for a Badger football preseason game, **despite knowing little about American Football at the time**. I also branched out into editorials and poetry.
 
 ## Resume
 
