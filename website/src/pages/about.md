@@ -92,7 +92,7 @@ I even got the brief experience of documenting a new feature for Amazon Elastic 
 
 ## Academic journey
 
-I graduated with a Bachelor's degree from the University of Wisconsin-Madison in May 2023. I studied computer science and journalism, was on the dean's list for six semesters, and received a couple scholarships from the journalism school. I was also an active member of the [Daily Cardinal](https://www.dailycardinal.com/page/about-us), UW-Madison's leading on-campus student newspaper. The following are some highlights from my time at the Cardinal:
+I graduated with a Bachelor's degree from the University of Wisconsin-Madison in May 2023. I studied computer science and journalism, was on the dean's list for six semesters, and received a couple scholarships from the journalism school. I was also an active member of the [Daily Cardinal](https://www.dailycardinal.com/page/about-us), a student organization that is UW-Madison's leading on-campus student newspaper. The following are some highlights from my time at the Cardinal:
 
 ### Senior Staff Writer: January 2021 to May 2023
 
