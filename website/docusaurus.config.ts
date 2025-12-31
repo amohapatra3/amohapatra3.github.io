@@ -163,6 +163,10 @@ const config: Config = {
               label: "UI text",
               to: "/docs/category/ui-text",
             },
+            {
+              label: "Storytelling",
+              to: "/docs/storytelling",
+            },
           ],
         },
         // {
@@ -196,6 +200,10 @@ const config: Config = {
             {
               label: "LinkedIn",
               href: "https://www.linkedin.com/in/~anupras",
+            },
+            {
+              label: "Email",
+              href: "mailto:manupras7@gmail.com",
             },
           ],
         },
