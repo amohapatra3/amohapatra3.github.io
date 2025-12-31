@@ -20,15 +20,15 @@ Putting together UI text for this feature was a subtask within the broader docum
 
 1. After **establishing some understanding of what restart policies are and how they relate to Amazon ECS**, I **looked at UI screenshots in a Quip design document** to understand what's changing in the console.
 2. I then **connected with the frontend engineer** who was handling UI updates for the launch and **provided feedback in the document and over Slack for what the text should be**.
-3. I **created a help panel and provided information about the help panel to the engineer** so he could add it to the UI.
+3. Some fields have **Info** buttons that provide a panel of text with more information about a field and links to relevant API or developer documentation. The panels of text are called [**help panels**](https://cloudscape.design/components/help-panel/). I **created a help panel for the restart policy field and provided information about the help panel to the engineer** so he could add it to the UI.
 
 The UI changes were released successfully on launch day in August 2024.
 
 ## Portfolio sample
 
-The introduction of restart policies meant new fields needed to be added to the AWS management console for Amazon ECS. Some fields have **Info** buttons that provide more information about a field and links to API or developer documentation. These panels of text are called [**help panels**](https://cloudscape.design/components/help-panel/).
+The introduction of restart policies meant new fields needed to be added to the AWS management console for Amazon ECS.
 
-**To view a PDF version of the fields and a couple expanded help panels, see [PDF](img/restart-policy-ui.pdf).**
+**To view a PDF version of the fields and a couple expanded help panels, see [restart policies fields and help panel](img/restart-policy-ui.pdf).**
 
 ## Tools and technologies used
 

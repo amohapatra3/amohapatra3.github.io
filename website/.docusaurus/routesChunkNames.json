@@ -249,17 +249,17 @@
     "sidebar": "sidebar---blog-814-8ac",
     "content": "content---blog-welcomed-9-f-ffb"
   },
-  "/docs-e26": {
+  "/docs-80c": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---docsaba-d7c"
     }
   },
-  "/docs-ecc": {
+  "/docs-23e": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---docs-005-788"
   },
-  "/docs-0cd": {
+  "/docs-9e5": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/docs/api-docs/data-types-b1e": {
@@ -317,6 +317,10 @@
   "/docs/storytelling-5ed": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-storytellingc-19-7a5"
+  },
+  "/docs/ui-text/ecs-account-setting-4b2": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-ui-text-ecs-account-setting-291-c68"
   },
   "/docs/ui-text/ecs-ebs-integration-ui-062": {
     "__comp": "__comp---theme-doc-item-178-a40",

@@ -68,12 +68,13 @@ I got promoted to Technical Writer II ahead of Q3 2025. I was involved in writin
 
 ### Technical Writer I: July 2023 - June 2025
 
-After a successful internship and graduation, I returned to AWS as a full-time writer. I started out working on documentation for Amazon ECS, resolving customer feedback tickets and refreshing tutorial steps for the first month or two. By the end of 2023, I was involved in a cross-service integration for Amazon ECS with Amazon Elastic Block Store (EBS). In May 2024, I took over ownership of documentation for AWS Cloud Map. In the following months, I was involved in projects such as scenario-based content refactoring, Amazon ECS restart policies, Cloud Map service-level attributes, and AWS CLI and SDK example expansion. For more information about these projects, see the following links in the portfolio:
+After a successful internship and graduation, I returned to AWS as a full-time writer. I started out working on documentation for Amazon ECS, resolving customer feedback tickets and refreshing tutorial steps for the first month or two. By the end of 2023, I was involved in a cross-service integration for Amazon ECS with Amazon Elastic Block Store (EBS). In May 2024, I took over ownership of documentation for AWS Cloud Map. In the following months, I was involved in projects such as scenario-based content refactoring, Amazon ECS restart policies, Amazon ECS default log driver mode setting, Cloud Map service-level attributes, and AWS CLI and SDK example expansion. For more information about these projects, see the following links in the portfolio:
 
 - [ECS integration with EBS developer guide](docs/dev-guide/ecs-ebs-integration)
 - [ECS integration with EBS UI](docs/ui-text/ecs-ebs-integration-ui)
 - [ECS restart policies API](docs/api-docs/data-types)
 - [ECS restart policies UI](docs/ui-text/ecs-restart-policy-ui)
+- [ECS account setting UI](docs/ui-text/ecs-account-setting)
 - [Cloud Map service-level attributes](docs/api-docs/operations)
 - [Scenario-based content refactoring](docs/broader-initiatives/scenario-based-content-refactoring)
 - [CLI and SDK examples](docs/broader-initiatives/cli-sdk-examples)

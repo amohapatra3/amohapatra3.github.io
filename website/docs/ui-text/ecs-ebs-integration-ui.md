@@ -18,16 +18,16 @@ Amazon EBS data volumes for Amazon ECS tasks are block storage devices that can 
 Putting together UI text for this feature was a subtask within the [broader documentation project](/docs/dev-guide/ecs-ebs-integration.md) for the feature. I followed these steps:
 
 1. After **establishing some understanding of what Amazon EBS volumes are and how they relate to Amazon ECS**, I **looked at UI mockups that the UX designer for the project had shared with me**. I **added comments for what UI text should be for each field, adhering to the internal style guide**. Many fields were 1:1 mappings of EBS volumes for Amazon EC2 instances, so it made sense for the UI text to be consistent across the ECS and EC2 consoles.
-2. I **collaborated with a frontend engineer on the ECS team** to decide what fields needed help panels and to provide him help panels for those fields. Once again, it made sense for language in the help panels to be consistent with help panels for the EC2 console. The engineer **added me to UI change code reviews (CRs)**, and I **left comments on TypeScript source code CRs suggesting updates to UI strings in the code**.
+2. Some fields have an **Info** button that provides a panel of text with more information about the field and links to relevant API or developer documentation. These panels of text are called **[help panels](https://cloudscape.design/components/help-panel/)**. I **collaborated with a frontend engineer on the ECS team** to decide what fields needed help panels and to provide him help panels for those fields. Once again, it made sense for language in the help panels to be consistent with help panels for the EC2 console. The engineer **added me to UI change code reviews (CRs)**, and I **left comments on TypeScript source code CRs suggesting updates to UI strings in the code**.
 3. Due to the scale of UI updates for this launch, there were a couple **formal reviews done by UX design leadership** to sign-off the changes. Reviewers provided feedback for the UX designer, the frontend engineer, and me. Feedback for me was focused on text. After all of us addressed our respective bits of feedback, the changes were signed off.
 
 The UI changes were released on launch day in January 2024. I contributed to sporadic updates to UI text for the rest of my time at AWS.
 
 ## Portfolio sample
 
-The introduction of Amazon EBS volumes for Amazon ECS tasks meant that many new forms and fields were added to the AWS Management Console for Amazon ECS. One such form is the volume configuration form available to customers if they provide a volume in their task definition and defer volume configuration to the deployment/launch phase. The fields in the form have **Info** buttons that provide more information about a field and links to API or developer documentation. These panels of text are called **[help panels](https://cloudscape.design/components/help-panel/)**.
+The introduction of Amazon EBS volumes for Amazon ECS tasks meant that many new forms and fields were added to the AWS Management Console for Amazon ECS. One such form is the volume configuration form available to customers if they provide a volume in their task definition and defer volume configuration to the deployment/launch phase.
 
-**To view a PDF version of the volume configuration form and a couple help panels, see [PDF](img/ebs-ui.pdf).**
+**To view a PDF version of the volume configuration form and a couple help panels, see [volume configuration fields and help panels](img/ebs-ui.pdf).**
 
 ## Tools and technologies used
 

@@ -61,6 +61,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "ui-text/ecs-account-setting",
+              "path": "/docs/ui-text/ecs-account-setting",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "ui-text/ecs-ebs-integration-ui",
               "path": "/docs/ui-text/ecs-ebs-integration-ui",
               "sidebar": "tutorialSidebar"
