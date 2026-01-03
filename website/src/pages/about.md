@@ -112,7 +112,7 @@ I was a **staff writer** at the Daily Cardinal from **September 2019 to December
 
 ## Resume
 
-For a downloadable, formatted version of my resume, see [Resume](@site/static/img/resume.pdf).
+My preference is to tweak my resume depending on the role. For a baseline downloadable PDF resume, see [Resume](@site/static/img/resume.pdf).
 
 ## Contact
 
