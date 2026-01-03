@@ -43,6 +43,7 @@ The following are some tools and technologies I have experience or familiarity w
 - HTML
 - CSS
 - Postman
+- Figma
 - Creating this website helped me learn about Docusaurus
 - Professionally, I've reviewed error messages and UI text in code written by engineers in TypeScript and Java. I've also updated existing scripts and snippets in Python and TypeScript. In college, I took classes that involved working on assignments in these languages (mostly in 2020 and 2021).
 - I took an introductory computer/electrical engineering class in 2020 that introduced me to hardware-adjacent concepts such as Instruction Set Architectures.
@@ -96,7 +97,7 @@ I graduated with a Bachelor's degree from the University of Wisconsin-Madison in
 
 ### Senior Staff Writer: January 2021 to May 2023
 
-After completing my stint as an editor who wrote sporadically, I returned to becoming a writer primarily. By the time I graduated, I ended with [**80 bylines**](https://www.dailycardinal.com/staff/anupras-mohapatra) to my name. I primarily wrote introspective editorials, food and music reviews, and poetry. I received a **[Online: Best Editorial or Commentary - Gold](https://milwaukeepressclub.org/2022-excellence-in-journalism-awardees/#collegiate)** award from the **Milwaukee Press Club** for a 2022 editorial I wrote for the Cardinal. The **oldest continously operating press club in North America**, the Milwaukee Press Club **confers state-level recognition annually** to Wisconsin-based college students for **excellence in student journalism**.
+After completing my stint as an editor who wrote sporadically, I returned to writing more frequently. By the time I graduated, I ended with [**80 bylines**](https://www.dailycardinal.com/staff/anupras-mohapatra) to my name. I primarily wrote introspective editorials, food and music reviews, and poetry. I received a **[Online: Best Editorial or Commentary - Gold](https://milwaukeepressclub.org/2022-excellence-in-journalism-awardees/#collegiate)** award from the **Milwaukee Press Club** for a 2022 editorial I wrote for the Cardinal. The **oldest continously operating press club in North America**, the Milwaukee Press Club **confers state-level recognition annually** to Wisconsin-based college students for **excellence in student journalism**.
 
 ### Editorial Board member: January 2020 to May 2023
 
