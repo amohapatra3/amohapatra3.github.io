@@ -5,13 +5,13 @@ sidebar_label: "FireLens non-root user"
 
 # Error messages for specifying a FireLens container to run as a non-root user in Amazon ECS
 
-FireLens for Amazon ECS allows customers to route application logs to AWS services such as Amazon CloudWatch or to external AWS partner services. Using FireLens for Amazon ECS involves specifying a container in the task definition. Until October 2025, the FireLens container had to run as a root user, which posed security risks. In October 2025, running the FireLens container as a non-root user was supported. The user had to be specified in one of the following formats:
+FireLens for Amazon ECS allows customers to route application logs to AWS services such as Amazon CloudWatch or to external AWS partner services. Using FireLens for Amazon ECS involves specifying a container in the task definition. Until October 2025, the FireLens container had to run as a root user, which posed security risks. In October 2025, Amazon ECS added support for running the FireLens container as a non-root user to improve application security. The user has to be specified in one of the following formats:
 
 - `uid`
 - `uid:gid`
 - `uid:group`
 
-If customers didn't specify the user in one of these formats, they would see an error message. I was responsible for the wording of error messages associated with specifying a non-root user for the FireLens container.
+If customers don't specify the user in one of these formats, they see an error message. I was responsible for the wording of error messages associated with specifying a non-root user for the FireLens container.
 
 For more information about Amazon ECS, see [What is Amazon ECS?](https://docs.aws.amazon.com/AmazonECS/latest/developerguide/Welcome.html) For more information about FireLens for ECS, see [Send Amazon ECS logs to an AWS service or AWS Partner](https://docs.aws.amazon.com/AmazonECS/latest/developerguide/using_firelens.html).
 
