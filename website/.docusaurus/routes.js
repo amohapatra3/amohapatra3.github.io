@@ -114,15 +114,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '80c'),
+    component: ComponentCreator('/docs', '8d1'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', '23e'),
+        component: ComponentCreator('/docs', 'bf1'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', '9e5'),
+            component: ComponentCreator('/docs', 'eed'),
             routes: [
               {
                 path: '/docs/api-docs/data-types',
@@ -223,6 +223,12 @@ export default [
               {
                 path: '/docs/ui-text/ecs-restart-policy-ui',
                 component: ComponentCreator('/docs/ui-text/ecs-restart-policy-ui', '71d'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/ui-text/firelens-non-root',
+                component: ComponentCreator('/docs/ui-text/firelens-non-root', 'c29'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               }

@@ -21,7 +21,7 @@
     "permalink": "/docs/ui-text/ecs-ebs-integration-ui"
   },
   "next": {
-    "title": "Amazon ECS log driver mode",
-    "permalink": "/docs/ui-text/ecs-account-setting"
+    "title": "Amazon ECS restart policy",
+    "permalink": "/docs/ui-text/firelens-non-root"
   }
 }

@@ -12,7 +12,7 @@ A restart policy is used by Amazon Elastic Container Service (ECS) to determine 
 
 The ability to specify a time period ensures ECS won't keep trying to restart a container infinitely in the event of a significant failure. The ability to specify exit codes ensures ECS won't restart a container in the event of an expected exit.
 
-For more information about Amazon ECS, see [What is Amazon ECS?](https://docs.aws.amazon.com/AmazonECS/latest/developerguide/Welcome.html) For more information about restart policies for ECS, see [Restart individual containers in Amazon ECS tasks with container restart policies](https://docs.aws.amazon.com/AmazonECS/latest/developerguide/container-restart-policy.html)
+For more information about Amazon ECS, see [What is Amazon ECS?](https://docs.aws.amazon.com/AmazonECS/latest/developerguide/Welcome.html) For more information about restart policies for ECS, see [Restart individual containers in Amazon ECS tasks with container restart policies](https://docs.aws.amazon.com/AmazonECS/latest/developerguide/container-restart-policy.html).
 
 ## Documentation process
 
