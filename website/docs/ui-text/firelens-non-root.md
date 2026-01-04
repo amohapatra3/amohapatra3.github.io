@@ -1,6 +1,6 @@
 ---
-sidebar_position: 2
-sidebar_label: "Amazon ECS restart policy"
+sidebar_position: 4
+sidebar_label: "FireLens non-root user"
 ---
 
 # Error messages for specifying a FireLens container to run as a non-root user in Amazon ECS

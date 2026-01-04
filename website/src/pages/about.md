@@ -66,6 +66,7 @@ I got promoted to Technical Writer II ahead of Q3 2025. I was involved in writin
 - [CLI tutorials](docs/broader-initiatives/open-source-tutorials)
 - [Shared namespaces](docs/dev-guide/shared-namespaces)
 - [Infrastructure as code](docs/broader-initiatives/infrastructure-as-code)
+- [FireLens non root](docs/ui-text/firelens-non-root)
 
 ### Technical Writer I: July 2023 - June 2025
 
