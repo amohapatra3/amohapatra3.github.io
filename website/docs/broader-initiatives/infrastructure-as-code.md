@@ -15,7 +15,7 @@ In 2025, the Amazon Elastic Container Service (ECS) documentation team learned t
 
 ## Action
 
-In response to this customer data, I decided that creating a top-level chapter focused on CloudFormation was a good idea. We previously had only one page dedicated to CloudFormation under 'getting started', but now we'd have a chapter with the following components:
+In response to this customer data, I decided that creating a top-level chapter focused on CloudFormation was a good idea. That way, we could have a consolidated resource for information that was previously spread out across the AWS CloudFormation template reference and non-documentation websites. We previously had only one page dedicated to CloudFormation under 'getting started', but now we'd have a chapter with the following components:
 
 - At the top level, a conceptual overview of CloudFormation
 - The following child topics:
@@ -39,7 +39,7 @@ I took the following steps in Q1 and Q2 2025 to create the chapter:
 
 ## Result
 
-A chapter in the Amazon ECS developer guide that is a consolidated resource for customers that use AWS CloudFormation for their IaC needs. The chapter also serves as a template that can be included in other AWS guides or extended to include content for third-party IaC providers such as Terraform and Pulumi.
+A chapter in the Amazon ECS developer guide that brings together previously scattered content for customers that use AWS CloudFormation for their IaC needs. The chapter also serves as a template that can be included in other AWS guides or extended to include content for third-party IaC providers such as Terraform and Pulumi.
 
 ## Portfolio sample
 
