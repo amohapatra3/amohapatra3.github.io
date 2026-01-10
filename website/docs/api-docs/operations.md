@@ -7,11 +7,11 @@ sidebar_label: "AWS Cloud Map API operations"
 
 An Amazon Web Services (AWS) customer can perform a variety of operations using APIs. For example, they can create an AWS resource such as an S3 bucket, update the resource, retrieve information about the resource, and delete the resource (CRUD operations). These operations are also referred to as **actions**. When documenting APIs at AWS, I was responsible for the descriptions of actions and their associated request and response parameters. I also created request and response examples for the actions. The following example in my portfolio showcases how I handled descriptions and examples for AWS Cloud Map actions related to service-level attributes.
 
-For more information about AWS Cloud Map, see [WHat is AWS Cloud Map?](https://docs.aws.amazon.com/cloud-map/latest/dg/what-is-cloud-map.html)
+For more information about AWS Cloud Map, see [What is AWS Cloud Map?](https://docs.aws.amazon.com/cloud-map/latest/dg/what-is-cloud-map.html)
 
 ## Service-level attribute actions
 
-When customers register instances with AWS Cloud Map, they can provide metadata about each instance using instance attributes. In 2024, the decision was made to allow customers to specify attributes for services as well. Customers could now use attributes to specify metadata for an instance _and_ for the service that the instance is part of. The following new API actions were created as a result:
+When customers register instances with AWS Cloud Map, they can provide metadata about each instance using instance attributes. In 2024, the decision was made to allow customers to specify attributes for services as well. Customers can now use attributes to specify metadata for an instance _and_ for the service that the instance is part of. The following new API actions were created to support this:
 
 - UpdateServiceAttributes
 - GetServiceAttributes
@@ -61,7 +61,7 @@ The documentation I wrote for the `DeleteServiceAttributes` operation can be fou
 
 The following parts of API action documentation are auto-generated from the API model and are owned by engineering:
 
-- Request and response syntaxes
+- Request syntax and response syntax
 - Fields such as `Required`, `Type`, `Array Members`, `Constraints`
 - Names of the parameters, errors, and actions
 
