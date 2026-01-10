@@ -7,7 +7,11 @@ sidebar_label: "AWS Cloud Map shared namespaces"
 
 Amazon Web Services (AWS) consists of 200+ products/services, and there are many integrations between services. I worked on documentation for a cross-service integration between AWS Cloud Map and AWS Resource Access Manager (RAM) that allows customers to create shared Cloud Map namespaces. I also worked on documentation for shared namespaces being supported for Amazon ECS Service Connect — a feature of Amazon ECS that provides management of communication between Amazon ECS services.
 
-For more information about AWS Cloud Map, see [What is AWS Cloud Map?](https://docs.aws.amazon.com/cloud-map/latest/dg/what-is-cloud-map.html) For more information about AWS RAM, see [What is AWS Resource Access Manager?](https://docs.aws.amazon.com/ram/latest/userguide/what-is.html) For more information about Amazon ECS Service Connect, see [Use Service Connect to connect Amazon ECS services with short names](https://docs.aws.amazon.com/AmazonECS/latest/developerguide/service-connect.html).
+For more information about AWS Cloud Map, see [What is AWS Cloud Map?](https://docs.aws.amazon.com/cloud-map/latest/dg/what-is-cloud-map.html)
+
+For more information about AWS RAM, see [What is AWS Resource Access Manager?](https://docs.aws.amazon.com/ram/latest/userguide/what-is.html)
+
+For more information about Amazon ECS Service Connect, see [Use Service Connect to connect Amazon ECS services with short names](https://docs.aws.amazon.com/AmazonECS/latest/developerguide/service-connect.html).
 
 ## Shared namespaces overview
 

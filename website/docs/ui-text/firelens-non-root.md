@@ -13,7 +13,9 @@ FireLens for Amazon ECS allows customers to route application logs to AWS servic
 
 If customers don't specify the user in one of these formats, they see an error message. I was responsible for the wording of error messages associated with specifying a non-root user for the FireLens container.
 
-For more information about Amazon ECS, see [What is Amazon ECS?](https://docs.aws.amazon.com/AmazonECS/latest/developerguide/Welcome.html) For more information about FireLens for ECS, see [Send Amazon ECS logs to an AWS service or AWS Partner](https://docs.aws.amazon.com/AmazonECS/latest/developerguide/using_firelens.html).
+For more information about Amazon ECS, see [What is Amazon ECS?](https://docs.aws.amazon.com/AmazonECS/latest/developerguide/Welcome.html)
+
+For more information about FireLens for ECS, see [Send Amazon ECS logs to an AWS service or AWS Partner](https://docs.aws.amazon.com/AmazonECS/latest/developerguide/using_firelens.html).
 
 ## Documentation process
 
