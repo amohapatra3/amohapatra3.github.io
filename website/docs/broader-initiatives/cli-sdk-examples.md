@@ -9,7 +9,7 @@ Amazon Web Services (AWS) offers several ways for customers to use APIs such as 
 
 ## Challenge
 
-The CLI reference and a subset of SDK references such as JavaScript and boto3 (Python) feature examples that writers can create. Other SDK reference examples come from the SDK examples team. I'd created SDK reference examples for an AWS Cloud Map launch in November 2024. With this experience fresh in mind, when I looked at the SDK and CLI references for Amazon ECS and AWS Cloud Map, I realized that certain API operations didn't have examples at all. Other operations had outdated examples or lacked basic examples for recently launched features.
+The CLI reference and a subset of SDK references such as JavaScript and boto3 (Python) feature examples that writers can create. Other SDK reference examples come from the SDK examples team. I'd created SDK reference examples for an AWS Cloud Map launch in November 2024. With this experience fresh in mind, when I looked at the SDK and CLI references for Amazon ECS and AWS Cloud Map, I realized that certain API operations **didn't have examples at all**. Other operations had outdated examples or lacked basic examples for recently launched features.
 
 I managed to identify a gap in our documentation: a lack of examples for the CLI and the SDK. The challenge was to create examples to fill the gap.
 
@@ -19,7 +19,7 @@ I took the following steps to bridge the examples gap:
 
 1. The first thing I did was make note of operations that lacked adequate CLI examples and operations that lacked adequate SDK reference examples. I **identified about 30 operations across both CLI and SDK references for Amazon ECS and AWS Cloud Map that either had zero examples or lacked examples for recent launches**.
 2. I then started creating examples. I created SDK reference examples using a mix of **XML and JSON**. The XML and JSON gets translated into code snippets as part of the SDK release process. I created CLI examples using **reStructuredText**. My focus was to **create basic examples that demonstrated how parameters came together in a CLI command or an SDK request for simple use cases**. For some operations, I **found relevant examples in the API reference and the AWS CloudFormation reference, so I 'translated' the examples into reStructuredText or XML and JSON depending on what I needed.**
-3. After creating examples, I had to publish them. The publication of CLI examples was handled by the AWS CLI team (a writer and a couple engineers), so I cut them a ticket. For SDK reference examples, I had to create a documentation SDK release.
+3. After creating examples, I had to publish them. I handed off the `.rst` files I created and updated to the AWS CLI technical writer who [merged it into the public GitHub repo for the AWS CLI](https://github.com/aws/aws-cli/commit/5f07db17488b9cc5ef04b5b751d4cac8f71e1a8c). For SDK reference examples, I created a documentation SDK release.
 
 ## Result
 
@@ -35,9 +35,9 @@ The following are a few of the CLI and SDK examples I created.
 
 ### CLI example
 
-I created a couple CLI examples for the `update-service` command for Amazon ECS for using Amazon EBS volumes with ECS and to stop using EBS volumes with ECS. This command is the same as the `UpdateService` API operation.
+I created a couple CLI examples for the Amazon ECS `update-service` command for using Amazon EBS volumes with ECS and to stop using EBS volumes with ECS. This command is the same as the `UpdateService` API operation.
 
-The following is one of the command examples I created. **To view the example in the AWS CLI reference, see [update-service](https://docs.aws.amazon.com/cli/latest/reference/ecs/update-service.html#examples)**.
+The following is one of the command examples I created for using EBS volumes. **To view this example in the AWS CLI reference, see [update-service](https://docs.aws.amazon.com/cli/latest/reference/ecs/update-service.html#examples)**.
 
 **Description**:
 
