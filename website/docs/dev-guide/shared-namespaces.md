@@ -7,11 +7,11 @@ sidebar_label: "AWS Cloud Map shared namespaces"
 
 Amazon Web Services (AWS) consists of 200+ products/services, and there are many integrations between services. I worked on documentation for a cross-service integration between AWS Cloud Map and AWS Resource Access Manager (RAM) that allows customers to create shared Cloud Map namespaces. I also worked on documentation for shared namespaces being supported for Amazon ECS Service Connect — a feature of Amazon ECS that provides management of communication between Amazon ECS services.
 
-For more information about AWS Cloud Map, see [What is AWS Cloud Map?](https://docs.aws.amazon.com/cloud-map/latest/dg/what-is-cloud-map.html) For more information about AWS RAM, see [What is AWS Resource Access Manager?](https://docs.aws.amazon.com/ram/latest/userguide/what-is.html) For more information about Amazon ECS Service Connect, see [Use Service Connect to connect Amazon ECS services with short names](https://docs.aws.amazon.com/AmazonECS/latest/developerguide/service-connect.html)
+For more information about AWS Cloud Map, see [What is AWS Cloud Map?](https://docs.aws.amazon.com/cloud-map/latest/dg/what-is-cloud-map.html) For more information about AWS RAM, see [What is AWS Resource Access Manager?](https://docs.aws.amazon.com/ram/latest/userguide/what-is.html) For more information about Amazon ECS Service Connect, see [Use Service Connect to connect Amazon ECS services with short names](https://docs.aws.amazon.com/AmazonECS/latest/developerguide/service-connect.html).
 
 ## Shared namespaces overview
 
-A namespace is the top-level logical grouping of AWS resources in AWS Cloud Map. Before the cross-service integration, namespaces were scoped to one AWS acccount. Only the account that created a namespace could access the namespace and its child resources. The integration with AWS RAM allows customers to share namespaces with other accounts and allows other accounts to access these namespaces. Customers no longer need to work aroumd the scope limitation.
+A namespace is the top-level logical grouping of AWS resources in AWS Cloud Map. Before the cross-service integration, namespaces were scoped to one AWS acccount. Only the account that created a namespace could access the namespace and its child resources. The integration with AWS RAM allows customers to share namespaces with other accounts and allows other accounts to access these namespaces. Customers no longer need to work around the scope limitation.
 
 Within weeks of the Cloud Map launch, this capability was extended to Amazon ECS Service Connect for cross-account communication between Amazon ECS services.
 

@@ -20,7 +20,7 @@ To learn more about me, see [About me](/about).
 
 ## Developer documentation
 
-Developer documentation samples focus on developer guide updates that I made in response to updates being introduced to the product. The developer guide updates I made were in response to net new product functionality, internal or external feedback, and updates to existing functionality. To view examples of this type of documentation, see **[Developer documentation](category/developer-documentation)**.
+Developer documentation samples focus on developer guide updates that I made in response to net new product functionality, internal or external feedback, and updates to existing functionality. To view examples of this type of documentation, see **[Developer documentation](category/developer-documentation)**.
 
 ## API reference
 
@@ -32,7 +32,7 @@ Besides working on regular feature documentation, I was involved in a couple doc
 
 ## UI text
 
-For customers that don't want to call APIs programmatically, AWS provides a Graphical User Interface (GUI) called the AWS Management Console. Updates to the APIs would often result in updates to this console such as new forms and fields. I contributed to UI text on the console for new or updated Amazon ECS and AWS Cloud Map forms and fields. To view examples of this type of documentation, see **[UI text](category/ui-text)**.
+For customers that don't want to call APIs programmatically, AWS provides a Graphical User Interface (GUI) called the AWS Management Console. Updates to the APIs would often result in updates to this console such as new forms and fields. I contributed to UI text on the console for new or updated Amazon ECS and AWS Cloud Map forms and fields. I also contributed to error messages that are returned when API calls fail. To view examples of this type of documentation, see **[UI text](category/ui-text)**.
 
 ## Storytelling
 
