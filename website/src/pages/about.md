@@ -98,7 +98,7 @@ I graduated with a Bachelor's degree from the University of Wisconsin-Madison in
 
 ### Senior Staff Writer: January 2021 to May 2023
 
-After completing my stint as an editor who wrote sporadically, I returned to writing more frequently. By the time I graduated, I ended with [**80 bylines**](https://www.dailycardinal.com/staff/anupras-mohapatra) to my name. I primarily wrote introspective editorials, food and music reviews, and poetry. I received a **[Online: Best Editorial or Commentary - Gold](https://milwaukeepressclub.org/2022-excellence-in-journalism-awardees/#collegiate)** award from the **Milwaukee Press Club** for a 2022 editorial I wrote for the Cardinal. The **oldest continously operating press club in North America**, the Milwaukee Press Club **confers state-level recognition annually** to Wisconsin-based college students for **excellence in student journalism**.
+After completing my stint as an editor who wrote sporadically, I returned to writing more frequently. By the time I graduated, I ended with [**80 bylines**](https://www.dailycardinal.com/staff/anupras-mohapatra) to my name. I primarily wrote introspective editorials, food and music reviews, and poetry. I received an **[Online: Best Editorial or Commentary - Gold](https://milwaukeepressclub.org/2022-excellence-in-journalism-awardees/#collegiate)** award from the **Milwaukee Press Club** for a 2022 editorial I wrote for the Cardinal. The **oldest continously operating press club in North America**, the Milwaukee Press Club **confers state-level recognition annually** to Wisconsin-based college students for **excellence in student journalism**.
 
 ### Editorial Board member: January 2020 to May 2023
 
