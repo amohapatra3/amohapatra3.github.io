@@ -3,7 +3,7 @@ sidebar_position: 1
 sidebar_label: "Amazon ECS integration with Amazon EBS"
 ---
 
-# Integration of Amazon ECS with Amazon EBS
+# Helping customers use Amazon EBS volumes with their Amazon ECS tasks
 
 Amazon Web Services (AWS) consists of 200+ products/services, and there are many integrations between services. I worked on documentation for a cross-service integration between Amazon Elastic Container Service (Amazon ECS) and Amazon Elastic Block Store (EBS) that allows customers to attach block storage to their containerized applications.
 

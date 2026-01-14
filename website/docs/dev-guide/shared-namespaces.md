@@ -3,7 +3,7 @@ sidebar_position: 2
 sidebar_label: "AWS Cloud Map shared namespaces"
 ---
 
-# Shared namespaces in AWS Cloud Map and Amazon ECS Service Connect
+# Helping customers create shared AWS Cloud Map namespaces and use them with Amazon ECS Service Connect
 
 Amazon Web Services (AWS) consists of 200+ products/services, and there are many integrations between services. I worked on documentation for a cross-service integration between AWS Cloud Map and AWS Resource Access Manager (RAM) that allows customers to create shared Cloud Map namespaces. I also worked on documentation for shared namespaces being supported for Amazon ECS Service Connect — a feature of Amazon ECS that provides management of communication between Amazon ECS services.
 
@@ -30,7 +30,7 @@ I worked on the Cloud Map documentation and the ECS documentation as separate pr
 
 With these launches being cross-service integrations, I had to work with stakeholders from the Cloud Map, ECS, and RAM teams.
 
-### Process for Cloud Map documentation
+### Process for AWS Cloud Map
 
 The following is a more detailed overview of my process for drafting Cloud Map developer gtuide documentation for this feature. Besides the developer guide, I made **updates to the API reference** and **left comments on Java and TypeScript code reviews (CRs) for error messages and UI text**.
 
@@ -41,7 +41,7 @@ The following is a more detailed overview of my process for drafting Cloud Map d
 
 After following these steps, I was able to successfully publish Cloud Map developer guide updates for this feature in August 2025. I even **went ahead and published updates for the RAM developer guide on behalf of the writer who was out-of-office the day of the launch**. I did some post-launch validation to see how the new API fields showed up and continued making updates after launch in response to internal and external feedback.
 
-### Process for the Amazon ECS Service Connect launch
+### Process for Amazon ECS Service Connect
 
 The Service Connect integration with shared namespaces was a secondary project that involved updating only the developer guide. The steps I followed for this update were similar to steps for the Cloud Map project.
 

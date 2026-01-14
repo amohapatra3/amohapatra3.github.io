@@ -3,7 +3,7 @@ sidebar_position: 2
 sidebar_label: "Amazon ECS API data types"
 ---
 
-# API data type documentation for Amazon ECS
+# Helping Amazon ECS customers specify restart policies programmatically
 
 To call an Amazon Web Services (AWS) API, a customer passes a request. The API, in most cases, returns a JSON response. The request and response JSON bodies can contain complex objects comprised of multiple parameters. These complex structures are called **data types**. When documenting APIs at AWS, I was responsible for the descriptions of data types and their constituent parameters. The following example in my portfolio showcases how I handled descriptions for an Amazon ECS data type called `RestartPolicy`.
 
