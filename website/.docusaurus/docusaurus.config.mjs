@@ -125,16 +125,16 @@ export default {
           "title": "Portfolio",
           "items": [
             {
-              "label": "Developer guide documentation",
+              "label": "Developer documentation",
               "to": "/docs/category/developer-documentation"
-            },
-            {
-              "label": "Broader documentation initiatives",
-              "to": "/docs/category/developer-experience-and-information-architecture"
             },
             {
               "label": "API documentation",
               "to": "/docs/category/api-documentation"
+            },
+            {
+              "label": "Developer experience and information architecture",
+              "to": "/docs/category/developer-experience-and-information-architecture"
             },
             {
               "label": "Content design",
