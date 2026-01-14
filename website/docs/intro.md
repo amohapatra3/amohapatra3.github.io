@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Introduction to the portfolio
 
-This portfolio is a collection of writing samples from my time at Amazon Web Services (AWS) working on developer documentation and my time at the Daily Cardinal working on editorials. At AWS, I wrote documentation for Amazon Elastic Container Service (ECS) and AWS Cloud Map. Amazon ECS is a container orchestration service that allows customers to run application code and its dependencies on cloud-based virtual servers (Amazon EC2 instances). Customers can focus on code and configurations, while ECS handles infrastructure on their behalf. AWS Cloud Map is a service that allows customers to register and track backend AWS resources using API calls and DNS queries.
+This portfolio is a collection of writing samples from my time at Amazon Web Services (AWS) and the Daily Cardinal. At the Daily Cardinal, I wrote introspective op-eds and reviews, often sharing with readers why something mattered. At AWS, I wrote developer documentation for Amazon Elastic Container Service (ECS) and AWS Cloud Map. Amazon ECS is a container orchestration service that allows customers to run application code and its dependencies on cloud-based virtual servers (Amazon EC2 instances). Customers can focus on code and configurations, while ECS handles infrastructure on their behalf. AWS Cloud Map is a service that allows customers to register and track backend AWS resources using API calls and DNS queries.
 
 For more information about Amazon ECS, see [What is Amazon ECS?](https://docs.aws.amazon.com/AmazonECS/latest/developerguide/Welcome.html)
 
