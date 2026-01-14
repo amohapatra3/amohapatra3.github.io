@@ -22,7 +22,7 @@ To learn more about me, see [About me](/about).
 
 ## Developer documentation
 
-Developer documentation samples focus on developer guide updates that I made in response to net new product functionality, internal or external feedback, and updates to existing functionality. To view examples of this type of documentation, see **[Developer documentation](category/developer-documentation)**.
+Developer documentation samples focus on developer guide updates that I made for cross-service integrations. These updates involved a great deal of cross-team collaboration. To view examples of this type of documentation, see **[Developer documentation](category/developer-documentation)**.
 
 ## API reference
 

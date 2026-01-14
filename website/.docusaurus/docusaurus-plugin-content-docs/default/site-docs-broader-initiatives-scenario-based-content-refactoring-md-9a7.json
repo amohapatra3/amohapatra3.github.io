@@ -17,11 +17,11 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Open-source AWS CLI tutorials",
+    "title": "Generating open-source AWS CLI tutorials",
     "permalink": "/docs/broader-initiatives/open-source-tutorials"
   },
   "next": {
-    "title": "Infrastructure as Code",
+    "title": "Consolidating scattered Infrastructure as Code content",
     "permalink": "/docs/broader-initiatives/infrastructure-as-code"
   }
 }

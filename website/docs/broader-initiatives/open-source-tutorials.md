@@ -1,6 +1,6 @@
 ---
 sidebar_position: 2
-sidebar_label: "Open-source AWS CLI tutorials"
+sidebar_label: "Generating open-source AWS CLI tutorials"
 ---
 
 # Collaboratively developing an open-source AWS CLI tutorials repository as an accessible onboarding resource

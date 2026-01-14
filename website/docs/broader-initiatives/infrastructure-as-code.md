@@ -1,6 +1,6 @@
 ---
 sidebar_position: 4
-sidebar_label: Infrastructure as Code
+sidebar_label: Consolidating scattered Infrastructure as Code content
 ---
 
 # Providing Amazon ECS customers a consolidated Infrastructure as Code resource for getting started

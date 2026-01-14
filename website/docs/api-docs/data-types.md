@@ -1,6 +1,6 @@
 ---
 sidebar_position: 2
-sidebar_label: "Amazon ECS API data types"
+sidebar_label: "Amazon ECS restart policy data type"
 ---
 
 # Helping Amazon ECS customers specify restart policies programmatically

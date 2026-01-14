@@ -1,6 +1,6 @@
 ---
-sidebar_position: 2
-sidebar_label: "Amazon ECS restart policy"
+sidebar_position: 4
+sidebar_label: "Amazon ECS restart policy UI text"
 ---
 
 # Explaining Amazon ECS restart policies in the user interface

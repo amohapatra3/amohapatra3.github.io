@@ -1,6 +1,6 @@
 {
   "id": "ui-text/ecs-ebs-integration-ui",
-  "title": "Providing Amazon ECS customers a standardized Amazon EBS user experience",
+  "title": "Providing Amazon ECS customers a consistent Amazon EBS user experience",
   "description": "Amazon Web Services (AWS) consists of 200+ products/services, and there are many integrations between services. I worked on documentation for a cross-service integration between Amazon Elastic Container Service (Amazon ECS) and Amazon Elastic Block Store (EBS) that allows customers to attach block storage to their containerized applications.",
   "source": "@site/docs/ui-text/ecs-ebs-integration-ui.md",
   "sourceDirName": "ui-text",
@@ -13,7 +13,7 @@
   "sidebarPosition": 1,
   "frontMatter": {
     "sidebar_position": 1,
-    "sidebar_label": "Amazon ECS integration with Amazon EBS"
+    "sidebar_label": "Consistent Amazon EBS UX for Amazon ECS customers"
   },
   "sidebar": "tutorialSidebar",
   "previous": {
@@ -21,7 +21,7 @@
     "permalink": "/docs/category/content-design"
   },
   "next": {
-    "title": "Amazon ECS restart policy",
-    "permalink": "/docs/ui-text/ecs-restart-policy-ui"
+    "title": "FireLens non-root user error messages",
+    "permalink": "/docs/ui-text/firelens-non-root"
   }
 }

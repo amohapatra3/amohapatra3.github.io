@@ -1,6 +1,6 @@
 ---
 sidebar_position: 1
-sidebar_label: "CLI and SDK examples"
+sidebar_label: "Adding CLI and SDK examples"
 ---
 
 # Closing gaps in AWS CLI and SDK reference examples for Amazon ECS and AWS Cloud Map

@@ -1,6 +1,6 @@
 ---
 sidebar_position: 3
-sidebar_label: "Amazon ECS log driver mode"
+sidebar_label: "Guiding Amazon ECS log driver mode selection"
 ---
 
 # Helping Amazon ECS customers set a default log driver mode

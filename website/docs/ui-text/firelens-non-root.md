@@ -1,6 +1,6 @@
 ---
-sidebar_position: 4
-sidebar_label: "FireLens non-root user"
+sidebar_position: 2
+sidebar_label: "FireLens non-root user error messages"
 ---
 
 # Alerting Amazon ECS customers about constraints on running the FireLens container as a non-root user

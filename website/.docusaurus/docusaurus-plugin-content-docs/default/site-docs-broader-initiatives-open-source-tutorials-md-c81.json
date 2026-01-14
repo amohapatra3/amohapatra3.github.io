@@ -13,11 +13,11 @@
   "sidebarPosition": 2,
   "frontMatter": {
     "sidebar_position": 2,
-    "sidebar_label": "Open-source AWS CLI tutorials"
+    "sidebar_label": "Generating open-source AWS CLI tutorials"
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "CLI and SDK examples",
+    "title": "Adding CLI and SDK examples",
     "permalink": "/docs/broader-initiatives/cli-sdk-examples"
   },
   "next": {

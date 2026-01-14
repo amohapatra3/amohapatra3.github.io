@@ -13,11 +13,11 @@
   "sidebarPosition": 2,
   "frontMatter": {
     "sidebar_position": 2,
-    "sidebar_label": "Amazon ECS API data types"
+    "sidebar_label": "Amazon ECS restart policy data type"
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "AWS Cloud Map API operations",
+    "title": "AWS Cloud Map service-level attribute actions",
     "permalink": "/docs/api-docs/operations"
   },
   "next": {

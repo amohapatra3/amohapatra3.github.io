@@ -10,18 +10,18 @@
   "unlisted": false,
   "tags": [],
   "version": "current",
-  "sidebarPosition": 2,
+  "sidebarPosition": 4,
   "frontMatter": {
-    "sidebar_position": 2,
-    "sidebar_label": "Amazon ECS restart policy"
+    "sidebar_position": 4,
+    "sidebar_label": "Amazon ECS restart policy UI text"
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Amazon ECS integration with Amazon EBS",
-    "permalink": "/docs/ui-text/ecs-ebs-integration-ui"
+    "title": "Guiding Amazon ECS log driver mode selection",
+    "permalink": "/docs/ui-text/ecs-account-setting"
   },
   "next": {
-    "title": "Amazon ECS log driver mode",
-    "permalink": "/docs/ui-text/ecs-account-setting"
+    "title": "Storytelling",
+    "permalink": "/docs/storytelling"
   }
 }
