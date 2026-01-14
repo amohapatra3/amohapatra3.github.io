@@ -60,6 +60,10 @@ const config: Config = {
             to: "/docs/intro",
             from: "/samples.html",
           },
+          {
+            to: "/docs/category/content-design",
+            from: "/docs/category/ui-text",
+          },
           // You can add more redirect rules here
         ],
         // You can also use createRedirects to automatically generate redirects
@@ -160,8 +164,8 @@ const config: Config = {
               to: "/docs/category/api-documentation",
             },
             {
-              label: "UI text",
-              to: "/docs/category/ui-text",
+              label: "Content design",
+              to: "/docs/category/content-design",
             },
             {
               label: "Storytelling",

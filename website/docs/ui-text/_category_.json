@@ -1,8 +1,8 @@
 {
-  "label": "UI text",
+  "label": "Content design",
   "position": 5,
   "link": {
     "type": "generated-index",
-    "description": "At AWS, I was tasked with developing help panels and providing feedback for UI text that appears on the AWS Management Console for Amazon ECS and AWS Cloud Map. The following samples show how I approached writing microcopy."
+    "description": "At AWS, I was tasked with developing help panels and UI text that appears on the AWS Management Console for Amazon ECS and AWS Cloud Map. The following samples show how I approached writing microcopy."
   }
 }

@@ -61,6 +61,10 @@ export default {
           {
             "to": "/docs/intro",
             "from": "/samples.html"
+          },
+          {
+            "to": "/docs/category/content-design",
+            "from": "/docs/category/ui-text"
           }
         ]
       }
@@ -133,8 +137,8 @@ export default {
               "to": "/docs/category/api-documentation"
             },
             {
-              "label": "UI text",
-              "to": "/docs/category/ui-text"
+              "label": "Content design",
+              "to": "/docs/category/content-design"
             },
             {
               "label": "Storytelling",
@@ -164,7 +168,7 @@ export default {
           ]
         }
       ],
-      "copyright": "Copyright © 2025 Anupras Mohapatra. Built with Docusaurus."
+      "copyright": "Copyright © 2026 Anupras Mohapatra. Built with Docusaurus."
     },
     "prism": {
       "theme": {

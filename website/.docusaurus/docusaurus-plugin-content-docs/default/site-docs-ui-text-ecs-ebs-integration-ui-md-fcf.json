@@ -17,8 +17,8 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "UI text",
-    "permalink": "/docs/category/ui-text"
+    "title": "Content design",
+    "permalink": "/docs/category/content-design"
   },
   "next": {
     "title": "Amazon ECS restart policy",

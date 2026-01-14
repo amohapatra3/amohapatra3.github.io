@@ -114,15 +114,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '8d1'),
+    component: ComponentCreator('/docs', '433'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', 'bf1'),
+        component: ComponentCreator('/docs', '547'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', 'eed'),
+            component: ComponentCreator('/docs', '358'),
             routes: [
               {
                 path: '/docs/api-docs/data-types',
@@ -173,14 +173,14 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/category/developer-documentation',
-                component: ComponentCreator('/docs/category/developer-documentation', '293'),
+                path: '/docs/category/content-design',
+                component: ComponentCreator('/docs/category/content-design', '56e'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/category/ui-text',
-                component: ComponentCreator('/docs/category/ui-text', '821'),
+                path: '/docs/category/developer-documentation',
+                component: ComponentCreator('/docs/category/developer-documentation', '293'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },

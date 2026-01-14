@@ -96,8 +96,8 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "/category/ui-text",
-              "path": "/docs/category/ui-text",
+              "id": "/category/content-design",
+              "path": "/docs/category/content-design",
               "sidebar": "tutorialSidebar"
             }
           ],

@@ -32,9 +32,9 @@ The API reference samples include parameter descriptions and examples that I cre
 
 Besides working on regular feature documentation, I was involved in a couple documentation initiatives in domains such as content strategy and developer experience. These projects often involved collaboration with other stakeholders. To learn more about these projects, see **[Broader documentation initiatives](category/broader-documentation-initiatives)**.
 
-## UI text
+## Content design
 
-For customers that don't want to call APIs programmatically, AWS provides a Graphical User Interface (GUI) called the AWS Management Console. Updates to the APIs would often result in updates to this console such as new forms and fields. I contributed to UI text on the console for new or updated Amazon ECS and AWS Cloud Map forms and fields. I also contributed to error messages that are returned when API calls fail. To view examples of this type of documentation, see **[UI text](category/ui-text)**.
+For customers that don't want to call APIs programmatically, AWS provides a Graphical User Interface (GUI) called the AWS Management Console. Updates to the APIs would often result in updates to this console such as new forms and fields. I contributed to microcopy on the console for new or updated Amazon ECS and AWS Cloud Map forms and fields. I also contributed to error messages that are returned when API calls fail. To view examples of this type of documentation, see **[UI text](category/content-design)**.
 
 ## Storytelling
 
