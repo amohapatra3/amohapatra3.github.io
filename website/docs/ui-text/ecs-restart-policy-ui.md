@@ -1,9 +1,9 @@
 ---
 sidebar_position: 4
-sidebar_label: "Amazon ECS restart policy UI text"
+sidebar_label: "Amazon ECS restart policy microcopy"
 ---
 
-# Explaining Amazon ECS restart policies in the user interface
+# Helping Amazon ECS customers specify restart policies using the AWS Management Console
 
 A restart policy is used by Amazon Elastic Container Service (ECS) to determine how to handle an exited container. Enabling a restart policy means Amazon ECS will try to restart a container when it exits, as long as the following conditions are met:
 
