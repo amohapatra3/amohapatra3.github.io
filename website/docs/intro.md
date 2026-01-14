@@ -14,8 +14,8 @@ My portfolio consists of five sections for the different types of content I have
 
 - Developer documentation
 - API reference
-- Broader documentation initiatives
-- UI text
+- Developer experience and information architecture
+- Content design
 - Storytelling
 
 To learn more about me, see [About me](/about).
