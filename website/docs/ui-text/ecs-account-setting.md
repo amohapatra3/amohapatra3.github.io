@@ -3,7 +3,7 @@ sidebar_position: 3
 sidebar_label: "Amazon ECS log driver mode"
 ---
 
-# UI updates for Amazon ECS log driver mode account setting
+# Helping Amazon ECS customers set a default log driver mode
 
 A log driver captures container logs (input and output streams) and sends them to destinations configured by the customer. Amazon Elastic Container Service (ECS) customers can configure log drivers for their containers. One setting that customers can specify for log drivers on Amazon ECS is `mode`. The mode determines whether an application will be available if the delivery of logs from source to destination fails for some reason. Customers can specify the following values:
 
@@ -22,7 +22,7 @@ Putting together UI text for this feature was a subtask within the broader docum
 
 1. After **establishing some understanding of `blocking` and `non-blocking` modes and why the Amazon ECS default was changing**, I **looked at UI screenshots in a Quip design document** to understand what's changing in the console.
 2. I then **connected with the frontend engineer** who was handling UI updates for the launch and **provided feedback in the document and over Slack for what the text should be**.
-3. Some fields have **Info** buttons that provide a panel of text with more information about the field and links to relevant API or developer documentation. The panels of text are called [**help panels**](https://cloudscape.design/components/help-panel/). I **created a help panel for the default log driver mode setting and provided information about the help panel to the engineer** so he could add it to the UI. The help panel provides some more information about the log driver mode setting, establishes that this setting will be the default for the account, and recommends the`non-blocking` over `blocking` as the default. We had an **asynchronous review over Slack with the tech lead and the product manager** for the launch to ensure that I captured the `blocking` and `non-blocking` settings accurately.
+3. Some fields have **Info** buttons that provide a panel of text with more information about the field and links to relevant API or developer documentation. The panels of text are called [**help panels**](https://cloudscape.design/components/help-panel/). I **created a help panel for the default log driver mode setting and provided information about the help panel to the engineer** so he could add it to the UI. The help panel provides some more information about the log driver mode setting, establishes that this setting will be the default for the account, and recommends the`non-blocking` over `blocking` as the default. We had an **asynchronous review over Slack with the tech lead and the product manager** for the launch to ensure that I captured the `blocking` and `non-blocking` settings accurately and provided customers context for both choices.
 
 The UI changes were released successfully on launch day in June 2025.
 
