@@ -3,7 +3,7 @@ sidebar_position: 4
 sidebar_label: Infrastructure as Code
 ---
 
-# Expanding Infrastructure as Code content for Amazon ECS
+# Providing Amazon ECS customers a consolidated Infrastructure as Code resource for getting started
 
 Infrastrtucture as Code (IaC) is a construct that allows customers to manage entire cloud infrastructures using templates. To make updates to their resources, customers can update lines of code in templates instead of relying on manual processes. For more information about Infrastructure as Code, see [What is Infrastructure as Code?](https://aws.amazon.com/what-is/iac/)
 

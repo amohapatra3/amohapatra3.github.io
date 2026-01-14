@@ -3,7 +3,7 @@ sidebar_position: 2
 sidebar_label: "Open-source AWS CLI tutorials"
 ---
 
-# Working collaboratively on an open-source AWS CLI tutorials repository
+# Collaboratively developing an open-source AWS CLI tutorials repository as an accessible onboarding resource
 
 When I returned to AWS as a full-time technical writer in 2023, I worked on updating tutorials to reacquaint myself with Amazon ECS. Like me, customers rely on tutorials to get started with AWS services. In 2025, when I learned that there was an opportunity to work on a project involving tutorials, I knew I had to get involved.
 

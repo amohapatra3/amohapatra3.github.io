@@ -3,7 +3,7 @@ sidebar_position: 3
 sidebar_label: Scenario-based content refactoring
 ---
 
-# Refactoring AWS developer guide content to be more 'scenario-based'
+# Refactoring AWS developer guide content to focus on user tasks over product features
 
 Amazon Web Services (AWS) developer guides are large, and with regular product releases, writers can neglect information architecture. When a project was announced in 2024 involving improvements to information architecture, I was excited to contribute. I figured I'd learn a lot.
 

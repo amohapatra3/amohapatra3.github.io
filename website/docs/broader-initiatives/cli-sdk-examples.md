@@ -3,7 +3,7 @@ sidebar_position: 1
 sidebar_label: "CLI and SDK examples"
 ---
 
-# Creating more AWS CLI and SDK examples
+# Closing gaps in AWS CLI and SDK reference examples for Amazon ECS and AWS Cloud Map
 
 Amazon Web Services (AWS) offers several ways for customers to use APIs such as direct API calls, AWS Command Line Interface (CLI) commands, and AWS Software Development Kit (SDK) requests in several programming languages. In December 2024, I was trying to determine areas in Amazon ECS and AWS Cloud Map documentation that could be improved on. With the holidays not far, I had the time to work on a self-directed project like this. I looked at the CLI and SDK references for both services and found something to work on.
 

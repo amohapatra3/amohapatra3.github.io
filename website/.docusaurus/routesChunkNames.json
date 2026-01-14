@@ -249,17 +249,17 @@
     "sidebar": "sidebar---blog-814-8ac",
     "content": "content---blog-welcomed-9-f-ffb"
   },
-  "/docs-433": {
+  "/docs-a5c": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---docsaba-d7c"
     }
   },
-  "/docs-547": {
+  "/docs-4bd": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---docs-005-788"
   },
-  "/docs-358": {
+  "/docs-4df": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/docs/api-docs/data-types-b1e": {
@@ -290,10 +290,6 @@
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
     "__props": "__props---docs-category-api-documentation-7-cd-e9d"
   },
-  "/docs/category/broader-documentation-initiatives-d60": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "__props": "__props---docs-category-broader-documentation-initiativesb-47-266"
-  },
   "/docs/category/content-design-56e": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
     "__props": "__props---docs-category-content-designb-05-b94"
@@ -301,6 +297,10 @@
   "/docs/category/developer-documentation-293": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
     "__props": "__props---docs-category-developer-documentationd-77-dc5"
+  },
+  "/docs/category/developer-experience-and-information-architecture-2d6": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "__props": "__props---docs-category-developer-experience-and-information-architecture-07-c-d17"
   },
   "/docs/dev-guide/ecs-ebs-integration-b50": {
     "__comp": "__comp---theme-doc-item-178-a40",

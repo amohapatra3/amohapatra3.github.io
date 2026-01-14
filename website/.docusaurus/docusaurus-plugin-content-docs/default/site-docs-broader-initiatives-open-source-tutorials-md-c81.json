@@ -1,6 +1,6 @@
 {
   "id": "broader-initiatives/open-source-tutorials",
-  "title": "Working collaboratively on an open-source AWS CLI tutorials repository",
+  "title": "Collaboratively developing an open-source AWS CLI tutorials repository as an accessible onboarding resource",
   "description": "When I returned to AWS as a full-time technical writer in 2023, I worked on updating tutorials to reacquaint myself with Amazon ECS. Like me, customers rely on tutorials to get started with AWS services. In 2025, when I learned that there was an opportunity to work on a project involving tutorials, I knew I had to get involved.",
   "source": "@site/docs/broader-initiatives/open-source-tutorials.md",
   "sourceDirName": "broader-initiatives",

@@ -28,13 +28,13 @@ Developer documentation samples focus on developer guide updates that I made in 
 
 The API reference samples include parameter descriptions and examples that I created for Amazon ECS and AWS Cloud Map APIs. To view examples of this type of documentation, see **[API reference](category/api-documentation)**.
 
-## Broader documentation initiatives
+## Developer experience and information architecture
 
-Besides working on regular feature documentation, I was involved in a couple documentation initiatives in domains such as content strategy and developer experience. These projects often involved collaboration with other stakeholders. To learn more about these projects, see **[Broader documentation initiatives](category/broader-documentation-initiatives)**.
+Besides working on regular feature documentation, I worked on projects in domains such as developer experience and information architecture. These projects often involved collaboration with other stakeholders. To learn more about these projects, see **[Developer experience and information architecture](category/developer-experience-and-information-architecture)**.
 
 ## Content design
 
-For customers that don't want to call APIs programmatically, AWS provides a Graphical User Interface (GUI) called the AWS Management Console. Updates to the APIs would often result in updates to this console such as new forms and fields. I contributed to microcopy on the console for new or updated Amazon ECS and AWS Cloud Map forms and fields. I also contributed to error messages that are returned when API calls fail. To view examples of this type of documentation, see **[UI text](category/content-design)**.
+For customers that don't want to call APIs programmatically, AWS provides a Graphical User Interface (GUI) called the AWS Management Console. Updates to the APIs would often result in updates to this console such as new forms and fields. I contributed to microcopy on the console for new or updated Amazon ECS and AWS Cloud Map forms and fields. I also contributed to error messages that are returned when API calls fail. To view examples of this type of documentation, see **[Content design](category/content-design)**.
 
 ## Storytelling
 

@@ -157,7 +157,7 @@ const config: Config = {
             },
             {
               label: "Broader documentation initiatives",
-              to: "/docs/category/broader-documentation-initiatives/",
+              to: "/docs/category/developer-experience-and-information-architecture",
             },
             {
               label: "API documentation",

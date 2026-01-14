@@ -114,15 +114,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '433'),
+    component: ComponentCreator('/docs', 'a5c'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', '547'),
+        component: ComponentCreator('/docs', '4bd'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', '358'),
+            component: ComponentCreator('/docs', '4df'),
             routes: [
               {
                 path: '/docs/api-docs/data-types',
@@ -167,12 +167,6 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/category/broader-documentation-initiatives',
-                component: ComponentCreator('/docs/category/broader-documentation-initiatives', 'd60'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
                 path: '/docs/category/content-design',
                 component: ComponentCreator('/docs/category/content-design', '56e'),
                 exact: true,
@@ -181,6 +175,12 @@ export default [
               {
                 path: '/docs/category/developer-documentation',
                 component: ComponentCreator('/docs/category/developer-documentation', '293'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/category/developer-experience-and-information-architecture',
+                component: ComponentCreator('/docs/category/developer-experience-and-information-architecture', '2d6'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
