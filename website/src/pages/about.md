@@ -4,7 +4,7 @@ title: About me
 
 # About me
 
-I'm Anupras, a technical content creator with almost 3 years experience as a technical writer at [Amazon Web Services (AWS)](https://aws.amazon.com) and about 4 years experience in the editorial space at the [Daily Cardinal](https://www.dailycardinal.com/page/about-us). I have a bachelor's degree in computer science and journalism from the [University of Wisconsin-Madison](https://www.wisc.edu). I was born in India, raised in the United Arab Emirates, and have studied and worked in the United States.
+I'm Anupras, a technical content creator with almost 3 years experience as a technical writer at [Amazon Web Services (AWS)](https://aws.amazon.com). I have a bachelor's degree in computer science and journalism from the [University of Wisconsin-Madison](https://www.wisc.edu). I was born in India, raised in the United Arab Emirates, and have studied and worked in the United States.
 
 I'm currently based in Austin, Texas and open to relocation if necessary. I'm excited by the prospect of exploring new cities and countries through work. In fact, that's how I ended up in Austin, and it's been fun.
 
@@ -92,11 +92,13 @@ I interned at AWS as a writer on the Amazon ECS team. My internship experience w
 
 I even got the brief experience of documenting a new feature for Amazon Elastic Container Registry (ECR). However, the launch was rolled back and not redone during or after my internship.
 
-## Academic journey
+<!-- ## Academic journey
 
-I graduated with a Bachelor's degree from the University of Wisconsin-Madison in May 2023. I studied computer science and journalism, was on the dean's list for six semesters, and received a couple scholarships from the journalism school. I was also an active member of the [Daily Cardinal](https://www.dailycardinal.com/page/about-us), a student organization that is UW-Madison's leading on-campus student newspaper. The following are some highlights from my time at the Cardinal:
+I graduated with a Bachelor's degree from the University of Wisconsin-Madison in May 2023. I studied computer science and journalism, was on the dean's list for six semesters, and received a couple scholarships from the journalism school. and about 4 years experience in the editorial space at the [Daily Cardinal](https://www.dailycardinal.com/page/about-us) I also have extensive experience as a student journalist, with my writing ranging from introspective editorials and reviews to satire and poetry. -->
 
-### Senior Staff Writer: January 2021 to May 2023
+<!-- I was also an active member of the [Daily Cardinal](https://www.dailycardinal.com/page/about-us), a student organization that is UW-Madison's leading on-campus student newspaper. -->
+
+<!-- ### Senior Staff Writer: January 2021 to May 2023
 
 After completing my stint as an editor who wrote sporadically, I returned to writing more frequently. By the time I graduated, I ended with [**80 bylines**](https://www.dailycardinal.com/staff/anupras-mohapatra) to my name. I primarily wrote introspective editorials, food and music reviews, and poetry. I received the 2022 **[Online: Best Editorial or Commentary - Gold](https://milwaukeepressclub.org/2022-excellence-in-journalism-awardees/#collegiate)** award from the **Milwaukee Press Club** for an editorial I wrote for the Cardinal. The **oldest continously operating press club in North America**, the Milwaukee Press Club **confers state-level recognition annually** to Wisconsin-based college students for **excellence in student journalism**.
 
@@ -118,4 +120,4 @@ My preference is to tweak my resume depending on the role. For a baseline downlo
 
 ## Contact
 
-You can reach out to me at manupras7@gmail.com or on [LinkedIn](https://www.linkedin.com/in/~anupras).
+You can reach out to me at manupras7@gmail.com or on [LinkedIn](https://www.linkedin.com/in/~anupras). -->

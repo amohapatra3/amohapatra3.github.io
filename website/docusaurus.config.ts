@@ -167,10 +167,10 @@ const config: Config = {
               label: "Content design",
               to: "/docs/category/content-design",
             },
-            {
-              label: "Storytelling",
-              to: "/docs/storytelling",
-            },
+            // {
+            //   label: "Storytelling",
+            //   to: "/docs/storytelling",
+            // },
           ],
         },
         // {

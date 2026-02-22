@@ -16,7 +16,7 @@ My portfolio consists of five sections for the different types of content I have
 - API reference
 - Developer experience and information architecture
 - Content design
-- Storytelling
+<!-- - Storytelling -->
 
 To learn more about me, see [About me](/about).
 
@@ -36,6 +36,6 @@ Besides working on regular feature documentation, I worked on projects in domain
 
 For customers that don't want to call APIs programmatically, AWS provides a Graphical User Interface (GUI) called the AWS Management Console. Updates to the APIs would often result in updates to this console such as new forms and fields. I contributed to microcopy on the console for new or updated Amazon ECS and AWS Cloud Map forms and fields. I also contributed to error messages that are returned when API calls fail. To view examples of this type of documentation, see **[Content design](category/content-design)**.
 
-## Storytelling
+<!-- ## Storytelling -->
 
-Storytelling samples are a small sampling of the articles I wrote for the Daily Cardinal, UW-Madison's leading student newspaper. To view samples, see **[Storytelling](storytelling)**.
+<!-- Storytelling samples are a small sampling of the articles I wrote for the Daily Cardinal, UW-Madison's leading student newspaper. To view samples, see **[Storytelling](storytelling)**. -->

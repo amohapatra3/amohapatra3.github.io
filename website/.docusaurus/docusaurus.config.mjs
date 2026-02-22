@@ -139,10 +139,6 @@ export default {
             {
               "label": "Content design",
               "to": "/docs/category/content-design"
-            },
-            {
-              "label": "Storytelling",
-              "to": "/docs/storytelling"
             }
           ]
         },
