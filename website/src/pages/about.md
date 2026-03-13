@@ -61,7 +61,7 @@ My professional journey so far has been one of progression at AWS.
 
 ### Technical Writer II: July 2025 - January 2026
 
-I got promoted to Technical Writer II ahead of Q3 2025. I was involved in writing documentation for [Amazon Elastic Container Service (ECS)](https://docs.aws.amazon.com/AmazonECS/latest/developerguide/Welcome.html) and [AWS Cloud Map](https://docs.aws.amazon.com/cloud-map/latest/dg/what-is-cloud-map.html). I contributed to projects such as an open-source AWS CLI tutorials repository, product documentation for shared AWS Cloud Map namespaces, and an Infrastructure as Code chapter for Amazon ECS customer. For more information about these projects, see the following links in the portfolio:
+I got promoted to Technical Writer II ahead of Q3 2025. My day-to-day didn't change much, but my scope grew. I continued writing documentation for products such as [Amazon Elastic Container Service (ECS)](https://docs.aws.amazon.com/AmazonECS/latest/developerguide/Welcome.html) and [AWS Cloud Map](https://docs.aws.amazon.com/cloud-map/latest/dg/what-is-cloud-map.html). In addition, I contributed to projects such as an open-source AWS CLI tutorials repository, product documentation for shared AWS Cloud Map namespaces, and an Infrastructure as Code chapter for Amazon ECS customer. For more information about these projects, see the following links in the portfolio:
 
 - [CLI tutorials](docs/broader-initiatives/open-source-tutorials)
 - [Shared namespaces](docs/dev-guide/shared-namespaces)
