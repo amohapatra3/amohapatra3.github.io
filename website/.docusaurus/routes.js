@@ -114,15 +114,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '193'),
+    component: ComponentCreator('/docs', 'eaf'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', '1d3'),
+        component: ComponentCreator('/docs', '96f'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', '647'),
+            component: ComponentCreator('/docs', '21f'),
             routes: [
               {
                 path: '/docs/api-docs/data-types',
@@ -185,8 +185,8 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/category/writing-exercise-with-fictional-product',
-                component: ComponentCreator('/docs/category/writing-exercise-with-fictional-product', '964'),
+                path: '/docs/category/writing-exercise-with-fictional-product-wip',
+                component: ComponentCreator('/docs/category/writing-exercise-with-fictional-product-wip', '117'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },

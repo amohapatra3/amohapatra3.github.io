@@ -249,17 +249,17 @@
     "sidebar": "sidebar---blog-814-8ac",
     "content": "content---blog-welcomed-9-f-ffb"
   },
-  "/docs-193": {
+  "/docs-eaf": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---docsaba-d7c"
     }
   },
-  "/docs-1d3": {
+  "/docs-96f": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---docs-005-788"
   },
-  "/docs-647": {
+  "/docs-21f": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/docs/api-docs/data-types-b1e": {
@@ -302,9 +302,9 @@
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
     "__props": "__props---docs-category-developer-experience-and-information-architecture-07-c-d17"
   },
-  "/docs/category/writing-exercise-with-fictional-product-964": {
+  "/docs/category/writing-exercise-with-fictional-product-wip-117": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "__props": "__props---docs-category-writing-exercise-with-fictional-producte-86-b23"
+    "__props": "__props---docs-category-writing-exercise-with-fictional-product-wip-6-bf-2c6"
   },
   "/docs/dev-guide/ecs-ebs-integration-b50": {
     "__comp": "__comp---theme-doc-item-178-a40",

@@ -4,7 +4,7 @@ title: About me
 
 # About me
 
-I'm Anupras, a technical content creator with almost 3 years experience as a technical writer at [Amazon Web Services (AWS)](https://aws.amazon.com). I have a bachelor's degree in computer science and journalism from the [University of Wisconsin-Madison](https://www.wisc.edu). I was born in India, raised in the United Arab Emirates, and have studied and worked in the United States.
+I'm Anupras, a technical author at Arm with almost 3 years prior experience as a technical writer at [Amazon Web Services (AWS)](https://aws.amazon.com). I have a bachelor's degree in computer science and journalism from the [University of Wisconsin-Madison](https://www.wisc.edu). I was born in India, raised in the United Arab Emirates, and have studied and worked in the United States.
 
 I'm currently based in Austin, Texas and open to relocation if necessary. I'm excited by the prospect of exploring new cities and countries through work. In fact, that's how I ended up in Austin, and it's been fun.
 
@@ -57,11 +57,11 @@ The following are some writing skills and standards I have experience or familia
 
 ## Professional journey
 
-My professional journey so far has been one of progression at AWS, and a new opportunity at Arm.
+My professional journey so far has been one of progression at AWS, and an opportunity at Arm.
 
 ### Technical Author @ Arm: April 2026 - Present
 
-At Arm, I get to maintain the Arm Learning Paths project — an open-source project for developers to learn how to build software on Arm-based compute. The project consists of guides for installing specific tools and software (Install Guides), and guided walkthroughs (Learning Paths) for a variety of use cases across different domains. 
+At Arm, I get to maintain the [Arm Learning Paths project](https://learn.arm.com) — an open-source project for developers to learn how to build software on Arm-based compute. The project consists of guides for installing specific tools and software (Install Guides), and guided walkthroughs (Learning Paths) for a variety of use cases across different domains. 
 
 ### Technical Writer @ AWS: July 2023 - January 2026
 
