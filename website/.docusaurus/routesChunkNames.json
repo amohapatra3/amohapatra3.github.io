@@ -45,7 +45,7 @@
   "/about-954": {
     "__comp": "__comp---theme-mdx-page-1-f-3-b90",
     "__context": {
-      "plugin": "plugin---markdown-pagea-74-7b5"
+      "plugin": "plugin---abouta-74-d48"
     },
     "content": "content---about-356-540"
   },
@@ -249,17 +249,17 @@
     "sidebar": "sidebar---blog-814-8ac",
     "content": "content---blog-welcomed-9-f-ffb"
   },
-  "/docs-a5c": {
+  "/docs-193": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---docsaba-d7c"
     }
   },
-  "/docs-4bd": {
+  "/docs-1d3": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---docs-005-788"
   },
-  "/docs-4df": {
+  "/docs-647": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/docs/api-docs/data-types-b1e": {
@@ -302,6 +302,10 @@
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
     "__props": "__props---docs-category-developer-experience-and-information-architecture-07-c-d17"
   },
+  "/docs/category/writing-exercise-with-fictional-product-964": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "__props": "__props---docs-category-writing-exercise-with-fictional-producte-86-b23"
+  },
   "/docs/dev-guide/ecs-ebs-integration-b50": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-dev-guide-ecs-ebs-integrationbc-7-9d5"
@@ -334,10 +338,34 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-ui-text-firelens-non-root-9-bf-4ff"
   },
+  "/docs/writing-exercise/cloud-deployer-pro-e57": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-writing-exercise-cloud-deployer-pro-1-e-0-03f"
+  },
+  "/docs/writing-exercise/define-policy-34f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-writing-exercise-define-policy-971-4b8"
+  },
+  "/docs/writing-exercise/evaluate-policy-643": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-writing-exercise-evaluate-policy-743-981"
+  },
+  "/docs/writing-exercise/integrate-policy-e8f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-writing-exercise-integrate-policyfce-ab8"
+  },
+  "/docs/writing-exercise/policy-drift-34f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-writing-exercise-policy-drift-945-2be"
+  },
+  "/docs/writing-exercise/resource-tagging-75b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-writing-exercise-resource-tagging-635-3d1"
+  },
   "/-e5f": {
     "__comp": "__comp---site-src-pages-index-tsx-1-df-d3e",
     "__context": {
-      "plugin": "plugin---markdown-pagea-74-7b5"
+      "plugin": "plugin---abouta-74-d48"
     },
     "config": "config---5-e-9-4f3"
   }

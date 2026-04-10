@@ -1,7 +1,7 @@
 {
   "id": "intro",
   "title": "Introduction to the portfolio",
-  "description": "This portfolio is a collection of writing samples from my time at Amazon Web Services (AWS) and the Daily Cardinal. At the Daily Cardinal, I wrote introspective op-eds and reviews, often sharing with readers why something mattered. At AWS, I wrote developer documentation for Amazon Elastic Container Service (ECS) and AWS Cloud Map.",
+  "description": "This portfolio is a collection of writing samples from my time at Amazon Web Services (AWS).",
   "source": "@site/docs/intro.md",
   "sourceDirName": ".",
   "slug": "/intro",

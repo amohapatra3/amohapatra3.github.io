@@ -57,9 +57,13 @@ The following are some writing skills and standards I have experience or familia
 
 ## Professional journey
 
-My professional journey so far has been one of progression at AWS.
+My professional journey so far has been one of progression at AWS, and a new opportunity at Arm.
 
-### Technical Writer: July 2023 - January 2026
+### Technical Author @ Arm: April 2026 - Present
+
+At Arm, I get to maintain the Arm Learning Paths project — an open-source project for developers to learn how to build software on Arm-based compute. The project consists of guides for installing specific tools and software (Install Guides), and guided walkthroughs (Learning Paths) for a variety of use cases across different domains. 
+
+### Technical Writer @ AWS: July 2023 - January 2026
 
 After a successful internship and graduation, I returned to AWS as a full-time writer. I started out working on documentation for [Amazon Elastic Container Service (ECS)](https://docs.aws.amazon.com/AmazonECS/latest/developerguide/Welcome.html), resolving customer feedback tickets and refreshing tutorial steps for the first month or two. By the end of 2023, I was involved in a cross-service integration for Amazon ECS with Amazon Elastic Block Store (EBS). In May 2024, I took over ownership of documentation for AWS Cloud Map. In the following months, I was involved in projects such as scenario-based content refactoring, Amazon ECS restart policies, Amazon ECS default log driver mode setting, Cloud Map service-level attributes, and AWS CLI and SDK example expansion. For more information about these projects, see the following links in the portfolio:
 
@@ -79,7 +83,7 @@ I got promoted ahead of Q3 2025. My day-to-day didn't change much, but my scope 
 - [Infrastructure as code](docs/broader-initiatives/infrastructure-as-code)
 - [FireLens non root](docs/ui-text/firelens-non-root)
 
-### Technical Writer Intern: June 2022 - August 2022
+### Technical Writer Intern @ AWS: June 2022 - August 2022
 
 I interned at AWS as a writer on the Amazon ECS team. My internship experience was somewhat unconventional in that I got to work on a variety of tasks instead of a single project. The tasks I worked on included the following:
 

@@ -81,6 +81,36 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "writing-exercise/cloud-deployer-pro",
+              "path": "/docs/writing-exercise/cloud-deployer-pro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "writing-exercise/define-policy",
+              "path": "/docs/writing-exercise/define-policy",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "writing-exercise/evaluate-policy",
+              "path": "/docs/writing-exercise/evaluate-policy",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "writing-exercise/integrate-policy",
+              "path": "/docs/writing-exercise/integrate-policy",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "writing-exercise/policy-drift",
+              "path": "/docs/writing-exercise/policy-drift",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "writing-exercise/resource-tagging",
+              "path": "/docs/writing-exercise/resource-tagging",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "/category/developer-documentation",
               "path": "/docs/category/developer-documentation",
               "sidebar": "tutorialSidebar"
@@ -98,6 +128,11 @@
             {
               "id": "/category/content-design",
               "path": "/docs/category/content-design",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/writing-exercise-with-fictional-product",
+              "path": "/docs/category/writing-exercise-with-fictional-product",
               "sidebar": "tutorialSidebar"
             }
           ],

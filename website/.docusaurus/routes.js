@@ -114,15 +114,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', 'a5c'),
+    component: ComponentCreator('/docs', '193'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', '4bd'),
+        component: ComponentCreator('/docs', '1d3'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', '4df'),
+            component: ComponentCreator('/docs', '647'),
             routes: [
               {
                 path: '/docs/api-docs/data-types',
@@ -185,6 +185,12 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
+                path: '/docs/category/writing-exercise-with-fictional-product',
+                component: ComponentCreator('/docs/category/writing-exercise-with-fictional-product', '964'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
                 path: '/docs/dev-guide/ecs-ebs-integration',
                 component: ComponentCreator('/docs/dev-guide/ecs-ebs-integration', 'b50'),
                 exact: true,
@@ -229,6 +235,42 @@ export default [
               {
                 path: '/docs/ui-text/firelens-non-root',
                 component: ComponentCreator('/docs/ui-text/firelens-non-root', 'c29'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/writing-exercise/cloud-deployer-pro',
+                component: ComponentCreator('/docs/writing-exercise/cloud-deployer-pro', 'e57'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/writing-exercise/define-policy',
+                component: ComponentCreator('/docs/writing-exercise/define-policy', '34f'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/writing-exercise/evaluate-policy',
+                component: ComponentCreator('/docs/writing-exercise/evaluate-policy', '643'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/writing-exercise/integrate-policy',
+                component: ComponentCreator('/docs/writing-exercise/integrate-policy', 'e8f'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/writing-exercise/policy-drift',
+                component: ComponentCreator('/docs/writing-exercise/policy-drift', '34f'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/writing-exercise/resource-tagging',
+                component: ComponentCreator('/docs/writing-exercise/resource-tagging', '75b'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               }
